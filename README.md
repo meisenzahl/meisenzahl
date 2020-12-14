@@ -38,7 +38,6 @@ Developing with GTK by night 🌕
 <li><p><a href="https://github.com/elementary/os-patches/pull/152">elementary/os-patches #152 · Use fallback image if BGRT is not supported</a></p></li>
 <li><p><a href="https://github.com/elementary/wingpanel-indicator-privacy/pull/25">elementary/wingpanel-indicator-privacy #25 · Add appdata</a></p></li>
 <li><p><a href="https://github.com/elementary/default-settings/pull/193">elementary/default-settings #193 · Set default antialiasing to grayscale</a></p></li>
-<li><p><a href="https://github.com/elementary/plymouth-theme/pull/2">elementary/plymouth-theme #2 · Use same background as greeter</a></p></li>
 <li><p><a href="https://github.com/elementary/os/pull/407">elementary/os #407 · Optimize build script for Raspberry Pi 4</a></p></li>
 <li><p><a href="https://github.com/elementary/notifications/pull/96">elementary/notifications #96 · Add a demo</a></p></li>
 <li><p><a href="https://github.com/elementary/onboarding/pull/111">elementary/onboarding #111 · Add a pre-release warning</a></p></li>
@@ -55,7 +54,6 @@ Developing with GTK by night 🌕
 <li><p><a href="https://github.com/elementary/gala/pull/884">elementary/gala #884 · Add feedback if zooming out is not possible</a></p></li>
 <li><p><a href="https://github.com/elementary/gala/pull/877">elementary/gala #877 · Increase maximum for zoom plugin</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/233">elementary/switchboard-plug-pantheon-shell #233 · Schedule dark mode</a></p></li>
-<li><p><a href="https://github.com/elementary/gala/pull/863">elementary/gala #863 · Schedule dark mode</a></p></li>
 <li><p><a href="https://github.com/elementary/default-settings/pull/182">elementary/default-settings #182 · Enable Housekeeping by default</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-applications/pull/60">elementary/switchboard-plug-applications #60 · Set permissions for flatpaks</a></p></li>
 </ul>

@@ -4,7 +4,7 @@ Founder at [semasquare](https://github.com/semasquare) <img class="emoji" width=
 Developing with Qt by day ☀️<br>
 Developing with GTK by night 🌕
 
-<details><summary><b>Features I am working on</b></summary>
+<details><summary><b>Features I am working on</b> (Click to expand)</summary>
 <p>
 <ul>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/151">elementary/switchboard-plug-about #151 · Change icon to the cute CPU looking one</a></p></li>
@@ -32,7 +32,7 @@ Developing with GTK by night 🌕
 </p>
 </details>
 
-<details><summary><b>Features I have successfully contributed</b></summary>
+<details><summary><b>Features I have successfully contributed</b> (Click to expand)</summary>
 <p>
 <ul>
 <li><p><a href="https://github.com/elementary/os-patches/pull/152">elementary/os-patches #152 · Use fallback image if BGRT is not supported</a></p></li>

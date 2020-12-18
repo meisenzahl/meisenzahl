@@ -7,7 +7,6 @@ Developing with GTK by night 🌕
 <details><summary><b>Features I am working on</b> (Click to expand)</summary>
 <p>
 <ul>
-<li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/151">elementary/switchboard-plug-about #151 · Change icon to the cute CPU looking one</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/150">elementary/switchboard-plug-about #150 · Add support for fwupd</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1456">elementary/appcenter #1456 · Throw toast when app is installed</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-display/pull/276">elementary/switchboard-plug-display #276 · Hide Night Light on unsupported hardware</a></p></li>
@@ -35,6 +34,7 @@ Developing with GTK by night 🌕
 <details><summary><b>Features I have successfully contributed</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/151">elementary/switchboard-plug-about #151 · Change icon to the cute CPU looking one</a></p></li>
 <li><p><a href="https://github.com/elementary/os-patches/pull/152">elementary/os-patches #152 · Use fallback image if BGRT is not supported</a></p></li>
 <li><p><a href="https://github.com/elementary/wingpanel-indicator-privacy/pull/25">elementary/wingpanel-indicator-privacy #25 · Add appdata</a></p></li>
 <li><p><a href="https://github.com/elementary/default-settings/pull/193">elementary/default-settings #193 · Set default antialiasing to grayscale</a></p></li>

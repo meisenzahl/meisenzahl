@@ -1,0 +1,21 @@
+name: publish
+on:
+  push:
+    branches:
+    - master
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: checkout
+      uses: actions/checkout@master
+      with:
+        ref: master
+    - name: python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - name: pip
+      run: >-
+        python -m
+        pip install -r requirements.txt --user

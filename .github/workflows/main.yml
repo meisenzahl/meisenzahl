@@ -20,7 +20,7 @@ jobs:
         python -m
         pip install -r requirements.txt --user
     - name: Generate README.md
-        run: python generate.py
+      run: python generate.py
     - name: push
       uses: github-actions-x/commit@v2.7
       with:

@@ -8,7 +8,6 @@ Developing with GTK by night 🌕
 <p>
 <ul>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/150">elementary/switchboard-plug-about #150 · Add support for fwupd</a></p></li>
-<li><p><a href="https://github.com/elementary/appcenter/pull/1456">elementary/appcenter #1456 · Throw toast when app is installed</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-display/pull/276">elementary/switchboard-plug-display #276 · Hide Night Light on unsupported hardware</a></p></li>
 <li><p><a href="https://github.com/elementary/onboarding/pull/118">elementary/onboarding #118 · Hide Night Light on unsupported hardware</a></p></li>
 <li><p><a href="https://github.com/elementary/wingpanel-indicator-network/pull/201">elementary/wingpanel-indicator-network #201 · Show an indicator icon for each active connection</a></p></li>
@@ -31,11 +30,12 @@ Developing with GTK by night 🌕
 </p>
 </details>
 
-<details><summary><b>Features I have successfully contributed</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed</b> (Click to expand)</summary>
 <p>
 <ul>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/151">elementary/switchboard-plug-about #151 · Change icon to the cute CPU looking one</a></p></li>
 <li><p><a href="https://github.com/elementary/os-patches/pull/152">elementary/os-patches #152 · Use fallback image if BGRT is not supported</a></p></li>
+<li><p><a href="https://github.com/elementary/appcenter/pull/1456">elementary/appcenter #1456 · Throw toast when app is installed</a></p></li>
 <li><p><a href="https://github.com/elementary/wingpanel-indicator-privacy/pull/25">elementary/wingpanel-indicator-privacy #25 · Add appdata</a></p></li>
 <li><p><a href="https://github.com/elementary/default-settings/pull/193">elementary/default-settings #193 · Set default antialiasing to grayscale</a></p></li>
 <li><p><a href="https://github.com/elementary/os/pull/407">elementary/os #407 · Optimize build script for Raspberry Pi 4</a></p></li>
@@ -56,6 +56,15 @@ Developing with GTK by night 🌕
 <li><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/233">elementary/switchboard-plug-pantheon-shell #233 · Schedule dark mode</a></p></li>
 <li><p><a href="https://github.com/elementary/default-settings/pull/182">elementary/default-settings #182 · Enable Housekeeping by default</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-applications/pull/60">elementary/switchboard-plug-applications #60 · Set permissions for flatpaks</a></p></li>
+</ul>
+</p>
+</details>
+
+<details><summary><b>Features I have contributed upstream</b> (Click to expand)</summary>
+<p>
+<ul>
+<li><a href="https://gitlab.gnome.org/GNOME/libhandy/-/merge_requests/671">GNOME/libhandy #671 · carousel-box: Invalidate cache for children size allocate</a></li>
+<li><a href="https://gitlab.freedesktop.org/plymouth/plymouth/-/merge_requests/125">plymouth/plymouth #125 · Use fallback image if BGRT is not supported</a></li>
 </ul>
 </p>
 </details>

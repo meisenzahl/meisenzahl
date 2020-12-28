@@ -1,27 +1,31 @@
-name: build
+name: Update README.md 📄
+
 on:
   push:
     branches:
     - master
+
 jobs:
-  build:
+  update-readme:
+    name: Update README.md 📄
     runs-on: ubuntu-latest
     steps:
-    - name: checkout
+    - name: Pull changes ⬇️
       uses: actions/checkout@master
       with:
         ref: master
-    - name: python
+    - name: Set up Python 3.8 🐍
       uses: actions/setup-python@v1
       with:
         python-version: 3.8
-    - name: Install dependencies
-      run: >-
-        python -m
-        pip install -r requirements.txt --user
-    - name: Generate README.md
+    - name: Install requirements 📦
+      run: pip install -r requirements.txt --user
+    - name: Generate README.md 📄
       run: python generate.py
-    - name: push
+      env:
+        GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_USER: ${{ secrets.USER }}
+    - name: Push changes ⬆️
       uses: github-actions-x/commit@v2.7
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}

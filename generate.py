@@ -45,8 +45,8 @@ def get_pull_requests_created_by(client, organization, username, state, verbose=
     return prs
 
 def main():
-    GITHUB_ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN", "")
-    GITHUB_USER = os.environ.get("USER", "")
+    GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN", "")
+    GITHUB_USER = os.environ.get("GITHUB_USER", "")
 
     client = github.Github(GITHUB_ACCESS_TOKEN)
 

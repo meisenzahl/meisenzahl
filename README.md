@@ -6,7 +6,7 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 17</b> (Click to expand)</summary>
 <p>
 <ul>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/150">elementary/switchboard-plug-about #150 · Add support for fwupd</a></p></li>
@@ -16,7 +16,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 <li><p><a href="https://github.com/elementary/builds/pull/57">elementary/builds #57 · Add accordion for old dailies</a></p></li>
 <li><p><a href="https://github.com/elementary/feedback/pull/34">elementary/feedback #34 · Provide a Flatpak manifest</a></p></li>
 <li><p><a href="https://github.com/elementary/plymouth-theme/pull/7">elementary/plymouth-theme #7 · Generate animation assets from SVG</a></p></li>
-<li><p><a href="https://github.com/elementary/plymouth-theme/pull/4">elementary/plymouth-theme #4 · Use BGRT Plymouth theme</a></p></li>
 <li><p><a href="https://github.com/elementary/settings-daemon/pull/15">elementary/settings-daemon #15 · Dark mode snoozing</a></p></li>
 <li><p><a href="https://github.com/elementary/wingpanel-indicator-nightlight/pull/72">elementary/wingpanel-indicator-nightlight #72 · Add dark style toggle to indicator</a></p></li>
 <li><p><a href="https://github.com/elementary/settings-daemon/pull/10">elementary/settings-daemon #10 · Add clock format</a></p></li>
@@ -24,7 +23,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 <li><p><a href="https://github.com/elementary/installer/pull/453">elementary/installer #453 · Smarter hostname</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-display/pull/262">elementary/switchboard-plug-display #262 · Add 3× scaling setting</a></p></li>
 <li><p><a href="https://github.com/elementary/calculator/pull/136">elementary/calculator #136 · Filter input</a></p></li>
-<li><p><a href="https://github.com/elementary/applications-menu/pull/409">elementary/applications-menu #409 · Pin actions to the menu</a></p></li>
 <li><p><a href="https://github.com/elementary/sound-theme/pull/11">elementary/sound-theme #11 · Add a sound for urgent notifications</a></p></li>
 <li><p><a href="https://github.com/elementary/notifications/pull/85">elementary/notifications #85 · Play different sound when notification is urgent</a></p></li>
 <li><p><a href="https://github.com/elementary/initial-setup/pull/84">elementary/initial-setup #84 · Set 24h format based on language</a></p></li>
@@ -32,12 +30,13 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </p>
 </details>
 
-<details><summary><b>Features I have contributed</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 24</b> (Click to expand)</summary>
 <p>
 <ul>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/151">elementary/switchboard-plug-about #151 · Change icon to the cute CPU looking one</a></p></li>
 <li><p><a href="https://github.com/elementary/os-patches/pull/152">elementary/os-patches #152 · Use fallback image if BGRT is not supported</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1456">elementary/appcenter #1456 · Throw toast when app is installed</a></p></li>
+<li><p><a href="https://github.com/elementary/plymouth-theme/pull/4">elementary/plymouth-theme #4 · Use BGRT Plymouth theme</a></p></li>
 <li><p><a href="https://github.com/elementary/wingpanel-indicator-privacy/pull/25">elementary/wingpanel-indicator-privacy #25 · Add appdata</a></p></li>
 <li><p><a href="https://github.com/elementary/default-settings/pull/193">elementary/default-settings #193 · Set default antialiasing to grayscale</a></p></li>
 <li><p><a href="https://github.com/elementary/os/pull/407">elementary/os #407 · Optimize build script for Raspberry Pi 4</a></p></li>
@@ -62,7 +61,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </p>
 </details>
 
-<details><summary><b>Features I have contributed upstream</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed upstream: 2</b> (Click to expand)</summary>
 <p>
 <ul>
 <li><a href="https://gitlab.gnome.org/GNOME/libhandy/-/merge_requests/671">GNOME/libhandy #671 · carousel-box: Invalidate cache for children size allocate</a></li>

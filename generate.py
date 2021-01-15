@@ -30,7 +30,7 @@ def get_pull_requests_created_by(client, organization, username, state, verbose=
                     "title": pr.title,
                     "url": pr.html_url,
                     "created_at": pr.created_at,
-                    "link": link
+                    "link": link,
                 })
 
                 if verbose:
@@ -52,7 +52,8 @@ def main():
 
     context = {
         "open": [],
-        "merged": []
+        "merged": [],
+        "upstream": [],
     }
 
     context["open"] = get_pull_requests_created_by(client, "elementary", GITHUB_USER, "open")
@@ -60,6 +61,13 @@ def main():
 
     context["open"].sort(key=lambda pr: pr["created_at"], reverse=True)
     context["merged"].sort(key=lambda pr: pr["created_at"], reverse=True)
+
+    context["upstream"].append({
+        "link": '<a href="https://gitlab.gnome.org/GNOME/libhandy/-/merge_requests/671">GNOME/libhandy #671 · carousel-box: Invalidate cache for children size allocate</a>'
+    })
+    context["upstream"].append({
+        "link": '<a href="https://gitlab.freedesktop.org/plymouth/plymouth/-/merge_requests/125">plymouth/plymouth #125 · Use fallback image if BGRT is not supported</a>'
+    })
 
     template_text = open("README.md.jinja2", "r").read()
     template = jinja2.Template(template_text)

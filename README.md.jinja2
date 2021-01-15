@@ -6,7 +6,7 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: {{ open | length }}</b> (Click to expand)</summary>
 <p>
 <ul>
 {% for pr in open -%}
@@ -16,7 +16,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </p>
 </details>
 
-<details><summary><b>Features I have contributed</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: {{ merged | length }}</b> (Click to expand)</summary>
 <p>
 <ul>
 {% for pr in merged -%}
@@ -26,11 +26,12 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </p>
 </details>
 
-<details><summary><b>Features I have contributed upstream</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed upstream: {{ upstream | length }}</b> (Click to expand)</summary>
 <p>
 <ul>
-<li><a href="https://gitlab.gnome.org/GNOME/libhandy/-/merge_requests/671">GNOME/libhandy #671 · carousel-box: Invalidate cache for children size allocate</a></li>
-<li><a href="https://gitlab.freedesktop.org/plymouth/plymouth/-/merge_requests/125">plymouth/plymouth #125 · Use fallback image if BGRT is not supported</a></li>
+{% for pr in upstream -%}
+<li>{{ pr.link }}</li>
+{% endfor -%}
 </ul>
 </p>
 </details>

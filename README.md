@@ -69,3 +69,5 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </ul>
 </p>
 </details>
+
+[![Marius Meisenzahl's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meisenzahl)](https://github.com/meisenzahl/meisenzahl)

@@ -29,7 +29,7 @@ def get_pull_requests_created_by(client, organization, username, state, verbose=
                     "number": pr.number,
                     "title": pr.title,
                     "url": pr.html_url,
-                    "created_at": pr.created_at,
+                    "updated_at": pr.updated_at,
                     "link": link,
                 })
 
@@ -59,8 +59,8 @@ def main():
     context["open"] = get_pull_requests_created_by(client, "elementary", GITHUB_USER, "open")
     context["merged"] = get_pull_requests_created_by(client, "elementary", GITHUB_USER, "closed")
 
-    context["open"].sort(key=lambda pr: pr["created_at"], reverse=True)
-    context["merged"].sort(key=lambda pr: pr["created_at"], reverse=True)
+    context["open"].sort(key=lambda pr: pr["updated_at"], reverse=True)
+    context["merged"].sort(key=lambda pr: pr["updated_at"], reverse=True)
 
     context["upstream"].append({
         "link": '<a href="https://gitlab.gnome.org/GNOME/libhandy/-/merge_requests/671">GNOME/libhandy #671 · carousel-box: Invalidate cache for children size allocate</a>'

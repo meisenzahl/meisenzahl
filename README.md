@@ -9,8 +9,8 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 <details><summary><b>Features I am working on: 18</b> (Click to expand)</summary>
 <p>
 <ul>
-<li><p><a href="https://github.com/elementary/greeter/pull/501">elementary/greeter #501 · Add button to open terminal</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/150">elementary/switchboard-plug-about #150 · Add support for fwupd</a></p></li>
+<li><p><a href="https://github.com/elementary/greeter/pull/501">elementary/greeter #501 · Add button to open terminal</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-display/pull/276">elementary/switchboard-plug-display #276 · Hide Night Light on unsupported hardware</a></p></li>
 <li><p><a href="https://github.com/elementary/onboarding/pull/118">elementary/onboarding #118 · Hide Night Light on unsupported hardware</a></p></li>
 <li><p><a href="https://github.com/elementary/wingpanel-indicator-network/pull/201">elementary/wingpanel-indicator-network #201 · Show an indicator icon for each active connection</a></p></li>

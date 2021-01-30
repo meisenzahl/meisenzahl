@@ -6,11 +6,13 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 17</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 19</b> (Click to expand)</summary>
 <p>
 <ul>
-<li><p><a href="https://github.com/elementary/switchboard-plug-display/pull/262">elementary/switchboard-plug-display #262 · Add 3× scaling setting</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/182">elementary/switchboard-plug-about #182 · Add detail page for firmware releases</a></p></li>
+<li><p><a href="https://github.com/elementary/granite/pull/463">elementary/granite #463 · Add seconds_to_string</a></p></li>
+<li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/192">elementary/switchboard-plug-about #192 · Control: Add libappstream dep</a></p></li>
+<li><p><a href="https://github.com/elementary/switchboard-plug-display/pull/262">elementary/switchboard-plug-display #262 · Add 3× scaling setting</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/183">elementary/switchboard-plug-about #183 · Better error when fwupd isn't installed</a></p></li>
 <li><p><a href="https://github.com/elementary/onboarding/pull/118">elementary/onboarding #118 · Hide Night Light on unsupported hardware</a></p></li>
 <li><p><a href="https://github.com/elementary/wingpanel-indicator-network/pull/201">elementary/wingpanel-indicator-network #201 · Show an indicator icon for each active connection</a></p></li>

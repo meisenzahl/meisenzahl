@@ -6,9 +6,11 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 19</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 21</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/code/pull/940">elementary/code #940 · Add button to run project</a></p></li>
+<li><p><a href="https://github.com/elementary/os-patches/pull/164">elementary/os-patches #164 · plymouth: Change default fonts</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/182">elementary/switchboard-plug-about #182 · Add detail page for firmware releases</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/195">elementary/switchboard-plug-about #195 · Show devices without releases</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/183">elementary/switchboard-plug-about #183 · Better error when fwupd isn't installed</a></p></li>

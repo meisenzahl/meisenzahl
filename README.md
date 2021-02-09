@@ -6,14 +6,13 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 22</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 21</b> (Click to expand)</summary>
 <p>
 <ul>
 <li><p><a href="https://github.com/elementary/code/pull/940">elementary/code #940 · Add build and run controls</a></p></li>
 <li><p><a href="https://github.com/elementary/docs/pull/56">elementary/docs #56 · Update link to the AppCenter Dashboard GitHub integration</a></p></li>
 <li><p><a href="https://github.com/elementary/os-patches/pull/164">elementary/os-patches #164 · plymouth: Change default fonts</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/182">elementary/switchboard-plug-about #182 · Add detail page for firmware releases</a></p></li>
-<li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/195">elementary/switchboard-plug-about #195 · Show devices without releases</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/183">elementary/switchboard-plug-about #183 · Better error when fwupd isn't installed</a></p></li>
 <li><p><a href="https://github.com/elementary/wingpanel-indicator-network/pull/201">elementary/wingpanel-indicator-network #201 · Show an indicator icon for each active connection</a></p></li>
 <li><p><a href="https://github.com/elementary/installer/pull/453">elementary/installer #453 · Smarter hostname</a></p></li>
@@ -35,9 +34,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </p>
 </details>
 
-<details><summary><b>Features I have contributed: 26</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 27</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/195">elementary/switchboard-plug-about #195 · Show devices without releases</a></p></li>
 <li><p><a href="https://github.com/elementary/feedback/pull/34">elementary/feedback #34 · Provide a Flatpak manifest</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/150">elementary/switchboard-plug-about #150 · Add support for fwupd</a></p></li>
 <li><p><a href="https://github.com/elementary/plymouth-theme/pull/4">elementary/plymouth-theme #4 · Use BGRT Plymouth theme</a></p></li>

@@ -6,17 +6,16 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 18</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 17</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/initial-setup/pull/92">elementary/initial-setup #92 · Option to install proprietary codecs</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/182">elementary/switchboard-plug-about #182 · Add detail page for firmware releases</a></p></li>
 <li><p><a href="https://github.com/elementary/code/pull/940">elementary/code #940 · Add build and run controls</a></p></li>
-<li><p><a href="https://github.com/elementary/docs/pull/56">elementary/docs #56 · Update link to the AppCenter Dashboard GitHub integration</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/183">elementary/switchboard-plug-about #183 · Better error when fwupd isn't installed</a></p></li>
 <li><p><a href="https://github.com/elementary/wingpanel-indicator-network/pull/201">elementary/wingpanel-indicator-network #201 · Show an indicator icon for each active connection</a></p></li>
 <li><p><a href="https://github.com/elementary/installer/pull/453">elementary/installer #453 · Smarter hostname</a></p></li>
 <li><p><a href="https://github.com/elementary/notifications/pull/85">elementary/notifications #85 · Play different sound when notification is urgent</a></p></li>
-<li><p><a href="https://github.com/elementary/initial-setup/pull/92">elementary/initial-setup #92 · Option to install proprietary codecs</a></p></li>
 <li><p><a href="https://github.com/elementary/initial-setup/pull/84">elementary/initial-setup #84 · Set 24h format based on language</a></p></li>
 <li><p><a href="https://github.com/elementary/granite/pull/463">elementary/granite #463 · Add seconds_to_string</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/192">elementary/switchboard-plug-about #192 · Control: Add libappstream dep</a></p></li>
@@ -31,9 +30,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </p>
 </details>
 
-<details><summary><b>Features I have contributed: 30</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 31</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/docs/pull/56">elementary/docs #56 · Update link to the AppCenter Dashboard GitHub integration</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-display/pull/262">elementary/switchboard-plug-display #262 · Add 3× scaling setting</a></p></li>
 <li><p><a href="https://github.com/elementary/os-patches/pull/164">elementary/os-patches #164 · plymouth: Change default fonts</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/201">elementary/switchboard-plug-about #201 · Provide fallback icon for firmware devices</a></p></li>

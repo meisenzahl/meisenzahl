@@ -9,14 +9,14 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 <details><summary><b>Features I am working on: 17</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/installer/pull/453">elementary/installer #453 · Smarter hostname</a></p></li>
+<li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/182">elementary/switchboard-plug-about #182 · Add detail page for firmware releases</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-display/pull/276">elementary/switchboard-plug-display #276 · Hide Night Light on unsupported hardware</a></p></li>
 <li><p><a href="https://github.com/elementary/onboarding/pull/118">elementary/onboarding #118 · Hide Night Light on unsupported hardware</a></p></li>
 <li><p><a href="https://github.com/elementary/granite/pull/463">elementary/granite #463 · Add seconds_to_string</a></p></li>
 <li><p><a href="https://github.com/elementary/initial-setup/pull/84">elementary/initial-setup #84 · Set 24h format based on language</a></p></li>
-<li><p><a href="https://github.com/elementary/installer/pull/453">elementary/installer #453 · Smarter hostname</a></p></li>
 <li><p><a href="https://github.com/elementary/wingpanel-indicator-network/pull/201">elementary/wingpanel-indicator-network #201 · Show an indicator icon for each active connection</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/183">elementary/switchboard-plug-about #183 · Better error when fwupd isn't installed</a></p></li>
-<li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/182">elementary/switchboard-plug-about #182 · Add detail page for firmware releases</a></p></li>
 <li><p><a href="https://github.com/elementary/initial-setup/pull/92">elementary/initial-setup #92 · Option to install proprietary codecs</a></p></li>
 <li><p><a href="https://github.com/elementary/code/pull/940">elementary/code #940 · Add build and run controls</a></p></li>
 <li><p><a href="https://github.com/elementary/notifications/pull/85">elementary/notifications #85 · Play different sound when notification is urgent</a></p></li>

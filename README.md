@@ -10,11 +10,11 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 <p>
 <ul>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/205">elementary/switchboard-plug-about #205 · Fix logic if device is up to date</a></p></li>
+<li><p><a href="https://github.com/elementary/initial-setup/pull/92">elementary/initial-setup #92 · Option to install proprietary codecs</a></p></li>
+<li><p><a href="https://github.com/elementary/appcenter/pull/1492">elementary/appcenter #1492 · Hide apps from the Ubuntu repos</a></p></li>
 <li><p><a href="https://github.com/elementary/installer/pull/453">elementary/installer #453 · Smarter hostname</a></p></li>
 <li><p><a href="https://github.com/elementary/onboarding/pull/118">elementary/onboarding #118 · Hide Night Light on unsupported hardware</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-display/pull/276">elementary/switchboard-plug-display #276 · Hide Night Light on unsupported hardware</a></p></li>
-<li><p><a href="https://github.com/elementary/initial-setup/pull/92">elementary/initial-setup #92 · Option to install proprietary codecs</a></p></li>
-<li><p><a href="https://github.com/elementary/appcenter/pull/1492">elementary/appcenter #1492 · Hide apps from the Ubuntu repos</a></p></li>
 <li><p><a href="https://github.com/elementary/granite/pull/463">elementary/granite #463 · Add seconds_to_string</a></p></li>
 <li><p><a href="https://github.com/elementary/initial-setup/pull/84">elementary/initial-setup #84 · Set 24h format based on language</a></p></li>
 <li><p><a href="https://github.com/elementary/wingpanel-indicator-network/pull/201">elementary/wingpanel-indicator-network #201 · Show an indicator icon for each active connection</a></p></li>

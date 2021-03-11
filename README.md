@@ -9,9 +9,9 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 <details><summary><b>Features I am working on: 17</b> (Click to expand)</summary>
 <p>
 <ul>
-<li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/205">elementary/switchboard-plug-about #205 · Fix logic if device is up to date</a></p></li>
-<li><p><a href="https://github.com/elementary/initial-setup/pull/92">elementary/initial-setup #92 · Option to install proprietary codecs</a></p></li>
+<li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/206">elementary/switchboard-plug-about #206 · Add detail page for firmware releases - Revenge of libfwupd</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1492">elementary/appcenter #1492 · Hide apps from the Ubuntu repos</a></p></li>
+<li><p><a href="https://github.com/elementary/initial-setup/pull/92">elementary/initial-setup #92 · Option to install proprietary codecs</a></p></li>
 <li><p><a href="https://github.com/elementary/installer/pull/453">elementary/installer #453 · Smarter hostname</a></p></li>
 <li><p><a href="https://github.com/elementary/onboarding/pull/118">elementary/onboarding #118 · Hide Night Light on unsupported hardware</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-display/pull/276">elementary/switchboard-plug-display #276 · Hide Night Light on unsupported hardware</a></p></li>
@@ -30,9 +30,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </p>
 </details>
 
-<details><summary><b>Features I have contributed: 32</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 33</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/205">elementary/switchboard-plug-about #205 · Fix logic if device is up to date</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1496">elementary/appcenter #1496 · Throw a dialog on failure when trying to open an installed app</a></p></li>
 <li><p><a href="https://github.com/elementary/docs/pull/56">elementary/docs #56 · Update link to the AppCenter Dashboard GitHub integration</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-display/pull/262">elementary/switchboard-plug-display #262 · Add 3× scaling setting</a></p></li>

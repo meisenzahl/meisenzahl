@@ -9,12 +9,12 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 <details><summary><b>Features I am working on: 19</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/initial-setup/pull/92">elementary/initial-setup #92 · Option to install proprietary codecs</a></p></li>
 <li><p><a href="https://github.com/elementary/settings-daemon/pull/25">elementary/settings-daemon #25 · Set accent color based on wallpaper</a></p></li>
 <li><p><a href="https://github.com/elementary/gala/pull/1080">elementary/gala #1080 · Add "Tile" actions and shortcuts to window menu</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1492">elementary/appcenter #1492 · Hide apps from the Ubuntu repos</a></p></li>
 <li><p><a href="https://github.com/elementary/wingpanel-indicator-network/pull/201">elementary/wingpanel-indicator-network #201 · Show an indicator icon for each active connection</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/206">elementary/switchboard-plug-about #206 · Add detail page for firmware releases - Revenge of libfwupd</a></p></li>
-<li><p><a href="https://github.com/elementary/initial-setup/pull/92">elementary/initial-setup #92 · Option to install proprietary codecs</a></p></li>
 <li><p><a href="https://github.com/elementary/installer/pull/453">elementary/installer #453 · Smarter hostname</a></p></li>
 <li><p><a href="https://github.com/elementary/onboarding/pull/118">elementary/onboarding #118 · Hide Night Light on unsupported hardware</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-display/pull/276">elementary/switchboard-plug-display #276 · Hide Night Light on unsupported hardware</a></p></li>

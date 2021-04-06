@@ -6,15 +6,17 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 17</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 19</b> (Click to expand)</summary>
 <p>
 <ul>
-<li><p><a href="https://github.com/elementary/installer/pull/504">elementary/installer #504 · Make preseed/kickstart/unattended install possible</a></p></li>
-<li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/209">elementary/switchboard-plug-about #209 · Provide a method for OEMs to include a logo for dark backgrounds</a></p></li>
+<li><p><a href="https://github.com/elementary/wallpapers/pull/138">elementary/wallpapers #138 · Accent color</a></p></li>
+<li><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/263">elementary/switchboard-plug-pantheon-shell #263 · Set accent color based on wallpaper</a></p></li>
+<li><p><a href="https://github.com/elementary/settings-daemon/pull/25">elementary/settings-daemon #25 · Set accent color based on wallpaper</a></p></li>
 <li><p><a href="https://github.com/elementary/gala/pull/1080">elementary/gala #1080 · Add "Tile" actions and shortcuts to window menu</a></p></li>
+<li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/209">elementary/switchboard-plug-about #209 · Provide a method for OEMs to include a logo for dark backgrounds</a></p></li>
+<li><p><a href="https://github.com/elementary/installer/pull/504">elementary/installer #504 · Make preseed/kickstart/unattended install possible</a></p></li>
 <li><p><a href="https://github.com/elementary/settings-daemon/pull/10">elementary/settings-daemon #10 · Add clock format</a></p></li>
 <li><p><a href="https://github.com/elementary/initial-setup/pull/92">elementary/initial-setup #92 · Option to install proprietary codecs</a></p></li>
-<li><p><a href="https://github.com/elementary/settings-daemon/pull/25">elementary/settings-daemon #25 · Set accent color based on wallpaper</a></p></li>
 <li><p><a href="https://github.com/elementary/wingpanel-indicator-network/pull/201">elementary/wingpanel-indicator-network #201 · Show an indicator icon for each active connection</a></p></li>
 <li><p><a href="https://github.com/elementary/onboarding/pull/118">elementary/onboarding #118 · Hide Night Light on unsupported hardware</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-display/pull/276">elementary/switchboard-plug-display #276 · Hide Night Light on unsupported hardware</a></p></li>

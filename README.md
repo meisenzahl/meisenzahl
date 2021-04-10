@@ -9,9 +9,9 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 <details><summary><b>Features I am working on: 19</b> (Click to expand)</summary>
 <p>
 <ul>
-<li><p><a href="https://github.com/elementary/wallpapers/pull/138">elementary/wallpapers #138 · Accent color</a></p></li>
-<li><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/263">elementary/switchboard-plug-pantheon-shell #263 · Set accent color based on wallpaper</a></p></li>
 <li><p><a href="https://github.com/elementary/gala/pull/1104">elementary/gala #1104 · Set accent color based on wallpaper</a></p></li>
+<li><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/263">elementary/switchboard-plug-pantheon-shell #263 · Set accent color based on wallpaper</a></p></li>
+<li><p><a href="https://github.com/elementary/wallpapers/pull/138">elementary/wallpapers #138 · Accent color</a></p></li>
 <li><p><a href="https://github.com/elementary/installer/pull/504">elementary/installer #504 · Make preseed/kickstart/unattended install possible</a></p></li>
 <li><p><a href="https://github.com/elementary/initial-setup/pull/92">elementary/initial-setup #92 · Option to install proprietary codecs</a></p></li>
 <li><p><a href="https://github.com/elementary/initial-setup/pull/84">elementary/initial-setup #84 · Set 24h format based on language</a></p></li>

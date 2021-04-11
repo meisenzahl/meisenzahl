@@ -17,7 +17,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   <tr>
     <td>{{ pr.link }}</td>
     <td>{% if pr.draft %}🏗️ Draft{% else %}👀️ Ready for review{% endif %}</td>
-    <td>{% if pr.draft %}⤵️ Mergeable{% else %}⚠️ Merge conflicts{% endif %}</td>
+    <td>{% if pr.draft %}⤵️ Mergeable{% else %}⚠️ Merging is blocked{% endif %}</td>
   </tr>
 {% endfor -%}
 </table>

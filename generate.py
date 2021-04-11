@@ -31,6 +31,8 @@ def get_pull_requests_created_by(client, organization, username, state, verbose=
                     "url": pr.html_url,
                     "updated_at": pr.updated_at,
                     "link": link,
+                    "draft": pr.draft,
+                    "mergeable": pr.mergeable,
                 })
 
                 if verbose:

@@ -16,32 +16,32 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 <tr>
     <td><p><a href="https://github.com/elementary/gala/pull/1104">elementary/gala #1104 · Set accent color based on wallpaper</a></p></td>
     <td>👀️ Ready for review</td>
-    <td>⚠️ Merge conflicts</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/notifications/pull/85">elementary/notifications #85 · Play different sound when notification is urgent</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merge conflicts</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/granite/pull/463">elementary/granite #463 · Add seconds_to_string</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merge conflicts</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/263">elementary/switchboard-plug-pantheon-shell #263 · Set accent color based on wallpaper</a></p></td>
     <td>👀️ Ready for review</td>
-    <td>⚠️ Merge conflicts</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/notifications/pull/85">elementary/notifications #85 · Play different sound when notification is urgent</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/granite/pull/463">elementary/granite #463 · Add seconds_to_string</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/gala/pull/1106">elementary/gala #1106 · control: Add gexiv2 dependency</a></p></td>
     <td>👀️ Ready for review</td>
-    <td>⚠️ Merge conflicts</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/wingpanel-indicator-network/pull/201">elementary/wingpanel-indicator-network #201 · Show an indicator icon for each active connection</a></p></td>
     <td>👀️ Ready for review</td>
-    <td>⚠️ Merge conflicts</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/switchboard-plug-display/pull/276">elementary/switchboard-plug-display #276 · Hide Night Light on unsupported hardware</a></p></td>
@@ -56,17 +56,17 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 <tr>
     <td><p><a href="https://github.com/elementary/settings-daemon/pull/10">elementary/settings-daemon #10 · Add clock format</a></p></td>
     <td>👀️ Ready for review</td>
-    <td>⚠️ Merge conflicts</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/switchboard-plug-about/pull/209">elementary/switchboard-plug-about #209 · Provide a method for OEMs to include a logo for dark backgrounds</a></p></td>
     <td>👀️ Ready for review</td>
-    <td>⚠️ Merge conflicts</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/initial-setup/pull/84">elementary/initial-setup #84 · Set 24h format based on language</a></p></td>
     <td>👀️ Ready for review</td>
-    <td>⚠️ Merge conflicts</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/installer/pull/504">elementary/installer #504 · Make preseed/kickstart/unattended install possible</a></p></td>
@@ -86,7 +86,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 <tr>
     <td><p><a href="https://github.com/elementary/wallpapers/pull/138">elementary/wallpapers #138 · Accent color</a></p></td>
     <td>👀️ Ready for review</td>
-    <td>⚠️ Merge conflicts</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/wallpapers/pull/140">elementary/wallpapers #140 · Add cli tool to handle EXIF metadata</a></p></td>
@@ -96,7 +96,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 <tr>
     <td><p><a href="https://github.com/elementary/initial-setup/pull/92">elementary/initial-setup #92 · Option to install proprietary codecs</a></p></td>
     <td>👀️ Ready for review</td>
-    <td>⚠️ Merge conflicts</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/code/pull/940">elementary/code #940 · Add build and run controls</a></p></td>
@@ -106,12 +106,12 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 <tr>
     <td><p><a href="https://github.com/elementary/plymouth-theme/pull/7">elementary/plymouth-theme #7 · Generate animation assets from SVG</a></p></td>
     <td>👀️ Ready for review</td>
-    <td>⚠️ Merge conflicts</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/settings-daemon/pull/15">elementary/settings-daemon #15 · Dark mode snoozing</a></p></td>
     <td>👀️ Ready for review</td>
-    <td>⚠️ Merge conflicts</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/wingpanel-indicator-nightlight/pull/72">elementary/wingpanel-indicator-nightlight #72 · Add dark style toggle to indicator</a></p></td>
@@ -121,7 +121,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 <tr>
     <td><p><a href="https://github.com/elementary/sound-theme/pull/11">elementary/sound-theme #11 · Add a sound for urgent notifications</a></p></td>
     <td>👀️ Ready for review</td>
-    <td>⚠️ Merge conflicts</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 </table>
 </details>

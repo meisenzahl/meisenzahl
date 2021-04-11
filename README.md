@@ -14,17 +14,27 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
+    <td><p><a href="https://github.com/elementary/notifications/pull/85">elementary/notifications #85 · Play different sound when notification is urgent</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/sound-theme/pull/11">elementary/sound-theme #11 · Add a sound for urgent notifications</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/granite/pull/483">elementary/granite #483 · Get prefers accent color from AccountsService</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
     <td><p><a href="https://github.com/elementary/gala/pull/1104">elementary/gala #1104 · Set accent color based on wallpaper</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/263">elementary/switchboard-plug-pantheon-shell #263 · Set accent color based on wallpaper</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/notifications/pull/85">elementary/notifications #85 · Play different sound when notification is urgent</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
@@ -79,11 +89,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/granite/pull/483">elementary/granite #483 · Get prefers accent color from AccountsService</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
     <td><p><a href="https://github.com/elementary/wallpapers/pull/138">elementary/wallpapers #138 · Accent color</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
@@ -117,11 +122,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td><p><a href="https://github.com/elementary/wingpanel-indicator-nightlight/pull/72">elementary/wingpanel-indicator-nightlight #72 · Add dark style toggle to indicator</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/sound-theme/pull/11">elementary/sound-theme #11 · Add a sound for urgent notifications</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
   </tr>
 </table>
 </details>

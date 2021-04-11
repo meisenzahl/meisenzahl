@@ -14,17 +14,32 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
+    <td><p><a href="https://github.com/elementary/gala/pull/1104">elementary/gala #1104 · Set accent color based on wallpaper</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merge conflicts</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/notifications/pull/85">elementary/notifications #85 · Play different sound when notification is urgent</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merge conflicts</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/granite/pull/463">elementary/granite #463 · Add seconds_to_string</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merge conflicts</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/263">elementary/switchboard-plug-pantheon-shell #263 · Set accent color based on wallpaper</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merge conflicts</td>
+  </tr>
+<tr>
     <td><p><a href="https://github.com/elementary/gala/pull/1106">elementary/gala #1106 · control: Add gexiv2 dependency</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merge conflicts</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/wingpanel-indicator-network/pull/201">elementary/wingpanel-indicator-network #201 · Show an indicator icon for each active connection</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merge conflicts</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/gala/pull/1104">elementary/gala #1104 · Set accent color based on wallpaper</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merge conflicts</td>
   </tr>
@@ -69,11 +84,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/263">elementary/switchboard-plug-pantheon-shell #263 · Set accent color based on wallpaper</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merge conflicts</td>
-  </tr>
-<tr>
     <td><p><a href="https://github.com/elementary/wallpapers/pull/138">elementary/wallpapers #138 · Accent color</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merge conflicts</td>
@@ -89,19 +99,9 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td>⚠️ Merge conflicts</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/granite/pull/463">elementary/granite #463 · Add seconds_to_string</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merge conflicts</td>
-  </tr>
-<tr>
     <td><p><a href="https://github.com/elementary/code/pull/940">elementary/code #940 · Add build and run controls</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/notifications/pull/85">elementary/notifications #85 · Play different sound when notification is urgent</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merge conflicts</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/plymouth-theme/pull/7">elementary/plymouth-theme #7 · Generate animation assets from SVG</a></p></td>

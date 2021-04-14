@@ -131,9 +131,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 39</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 40</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/wingpanel-indicator-sound/pull/198">elementary/wingpanel-indicator-sound #198 · Fallback to application-default-icon</a></p></li>
 <li><p><a href="https://github.com/elementary/sideload/pull/112">elementary/sideload #112 · Unify quotation mark style</a></p></li>
 <li><p><a href="https://github.com/elementary/docker/pull/17">elementary/docker #17 · Some cleanup following the best practices</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1492">elementary/appcenter #1492 · Hide apps from the Ubuntu repos</a></p></li>

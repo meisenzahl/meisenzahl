@@ -14,7 +14,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/code/pull/940">elementary/code #940 · Add build and run controls</a></p></td>
+    <td><p><a href="https://github.com/elementary/code/pull/940">elementary/code #940 · Add build and run controls for Flatpak based projects</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
   </tr>

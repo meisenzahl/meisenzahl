@@ -6,7 +6,7 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 23</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 22</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
@@ -42,11 +42,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td><p><a href="https://github.com/elementary/gala/pull/1080">elementary/gala #1080 · Add "Tile" actions and shortcuts to window menu</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/granite/pull/483">elementary/granite #483 · Get prefers accent color from AccountsService</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/notifications/pull/85">elementary/notifications #85 · Play different sound when notification is urgent</a></p></td>
@@ -131,9 +126,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 40</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 41</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/granite/pull/483">elementary/granite #483 · Get prefers accent color from AccountsService</a></p></li>
 <li><p><a href="https://github.com/elementary/wingpanel-indicator-sound/pull/198">elementary/wingpanel-indicator-sound #198 · Fallback to application-default-icon</a></p></li>
 <li><p><a href="https://github.com/elementary/sideload/pull/112">elementary/sideload #112 · Unify quotation mark style</a></p></li>
 <li><p><a href="https://github.com/elementary/docker/pull/17">elementary/docker #17 · Some cleanup following the best practices</a></p></li>

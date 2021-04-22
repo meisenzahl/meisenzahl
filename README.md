@@ -14,6 +14,11 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
+    <td><p><a href="https://github.com/elementary/code/pull/940">elementary/code #940 · Add build and run controls for Flatpak based projects</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
     <td><p><a href="https://github.com/elementary/wingpanel-indicator-network/pull/201">elementary/wingpanel-indicator-network #201 · Show an indicator icon for each active connection</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
@@ -25,11 +30,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/gala/pull/1080">elementary/gala #1080 · Add "Tile" actions and shortcuts to window menu</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/code/pull/940">elementary/code #940 · Add build and run controls for Flatpak based projects</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
   </tr>

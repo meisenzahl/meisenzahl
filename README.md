@@ -6,12 +6,17 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 22</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 21</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
     <th>State</th>
     <th>Mergeable</th>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/263">elementary/switchboard-plug-pantheon-shell #263 · Set accent color based on wallpaper</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/code/pull/940">elementary/code #940 · Add build and run controls for Flatpak based projects</a></p></td>
@@ -47,11 +52,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td><p><a href="https://github.com/elementary/onboarding/pull/118">elementary/onboarding #118 · Hide Night Light on unsupported hardware</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/263">elementary/switchboard-plug-pantheon-shell #263 · Set accent color based on wallpaper</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/notifications/pull/85">elementary/notifications #85 · Play different sound when notification is urgent</a></p></td>
@@ -94,11 +94,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/wallpapers/pull/138">elementary/wallpapers #138 · Accent color</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
     <td><p><a href="https://github.com/elementary/wallpapers/pull/140">elementary/wallpapers #140 · Add cli tool to handle EXIF metadata</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
@@ -126,9 +121,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 41</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 42</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/wallpapers/pull/138">elementary/wallpapers #138 · Accent color</a></p></li>
 <li><p><a href="https://github.com/elementary/granite/pull/483">elementary/granite #483 · Get prefers accent color from AccountsService</a></p></li>
 <li><p><a href="https://github.com/elementary/wingpanel-indicator-sound/pull/198">elementary/wingpanel-indicator-sound #198 · Fallback to application-default-icon</a></p></li>
 <li><p><a href="https://github.com/elementary/sideload/pull/112">elementary/sideload #112 · Unify quotation mark style</a></p></li>

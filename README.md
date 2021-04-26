@@ -14,6 +14,26 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
+    <td><p><a href="https://github.com/elementary/granite/pull/463">elementary/granite #463 · Add seconds_to_string</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-display/pull/276">elementary/switchboard-plug-display #276 · Hide Night Light on unsupported hardware</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/wingpanel-indicator-network/pull/201">elementary/wingpanel-indicator-network #201 · Show an indicator icon for each active connection</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/code/pull/940">elementary/code #940 · Add build and run controls for Flatpak based projects</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
     <td><p><a href="https://github.com/elementary/code/pull/996">elementary/code #996 · Create new app from template</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
@@ -22,11 +42,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td><p><a href="https://github.com/elementary/gala/pull/1080">elementary/gala #1080 · Add "Tile" actions and shortcuts to window menu</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/granite/pull/463">elementary/granite #463 · Add seconds_to_string</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/onboarding/pull/118">elementary/onboarding #118 · Hide Night Light on unsupported hardware</a></p></td>
@@ -49,19 +64,9 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/code/pull/940">elementary/code #940 · Add build and run controls for Flatpak based projects</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
     <td><p><a href="https://github.com/elementary/wallpapers/pull/140">elementary/wallpapers #140 · Add cli tool to handle EXIF metadata</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/wingpanel-indicator-network/pull/201">elementary/wingpanel-indicator-network #201 · Show an indicator icon for each active connection</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/notifications/pull/85">elementary/notifications #85 · Play different sound when notification is urgent</a></p></td>
@@ -77,11 +82,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td><p><a href="https://github.com/elementary/gala/pull/1106">elementary/gala #1106 · control: Add gexiv2 dependency</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-display/pull/276">elementary/switchboard-plug-display #276 · Hide Night Light on unsupported hardware</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/settings-daemon/pull/10">elementary/settings-daemon #10 · Add clock format</a></p></td>

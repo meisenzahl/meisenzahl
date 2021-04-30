@@ -6,7 +6,7 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 19</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 18</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
@@ -64,11 +64,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/gala/pull/1106">elementary/gala #1106 · control: Add gexiv2 dependency</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
     <td><p><a href="https://github.com/elementary/settings-daemon/pull/10">elementary/settings-daemon #10 · Add clock format</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
@@ -111,9 +106,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 44</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 45</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/gala/pull/1106">elementary/gala #1106 · control: Add gexiv2 dependency</a></p></li>
 <li><p><a href="https://github.com/elementary/onboarding/pull/126">elementary/onboarding #126 · Set accent color based on wallpaper</a></p></li>
 <li><p><a href="https://github.com/elementary/gala/pull/1104">elementary/gala #1104 · Set accent color based on wallpaper</a></p></li>
 <li><p><a href="https://github.com/elementary/wallpapers/pull/138">elementary/wallpapers #138 · Accent color</a></p></li>

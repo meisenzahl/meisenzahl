@@ -14,17 +14,17 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
+    <td><p><a href="https://github.com/elementary/gala/pull/1124">elementary/gala #1124 · Set accent color based on primary color</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
     <td><p><a href="https://github.com/elementary/code/pull/996">elementary/code #996 · Create new app from template</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/code/pull/940">elementary/code #940 · Add build and run controls for Flatpak based projects</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/gala/pull/1124">elementary/gala #1124 · Set accent color based on primary color</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>

@@ -6,12 +6,17 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 21</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 20</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
     <th>State</th>
     <th>Mergeable</th>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/263">elementary/switchboard-plug-pantheon-shell #263 · Set accent color based on wallpaper</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/code/pull/996">elementary/code #996 · Create new app from template</a></p></td>
@@ -49,17 +54,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/263">elementary/switchboard-plug-pantheon-shell #263 · Set accent color based on wallpaper</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
     <td><p><a href="https://github.com/elementary/code/pull/940">elementary/code #940 · Add build and run controls for Flatpak based projects</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/stylesheet/pull/1002">elementary/stylesheet #1002 · Give auto button a background</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
@@ -121,9 +116,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 45</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 46</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/stylesheet/pull/1002">elementary/stylesheet #1002 · Give auto button a background</a></p></li>
 <li><p><a href="https://github.com/elementary/gala/pull/1106">elementary/gala #1106 · control: Add gexiv2 dependency</a></p></li>
 <li><p><a href="https://github.com/elementary/onboarding/pull/126">elementary/onboarding #126 · Set accent color based on wallpaper</a></p></li>
 <li><p><a href="https://github.com/elementary/gala/pull/1104">elementary/gala #1104 · Set accent color based on wallpaper</a></p></li>

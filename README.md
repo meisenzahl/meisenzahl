@@ -14,12 +14,12 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/263">elementary/switchboard-plug-pantheon-shell #263 · Set accent color based on wallpaper</a></p></td>
+    <td><p><a href="https://github.com/elementary/code/pull/940">elementary/code #940 · Add build and run controls for Flatpak based projects</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/code/pull/940">elementary/code #940 · Add build and run controls for Flatpak based projects</a></p></td>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/263">elementary/switchboard-plug-pantheon-shell #263 · Set accent color based on wallpaper</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
@@ -111,9 +111,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 48</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 49</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/onboarding/pull/132">elementary/onboarding #132 · Remove unused Granite.Settings</a></p></li>
 <li><p><a href="https://github.com/elementary/onboarding/pull/130">elementary/onboarding #130 · Do not use Granite.Settings</a></p></li>
 <li><p><a href="https://github.com/elementary/gala/pull/1124">elementary/gala #1124 · Set accent color based on primary color</a></p></li>
 <li><p><a href="https://github.com/elementary/stylesheet/pull/1002">elementary/stylesheet #1002 · Give auto button a background</a></p></li>

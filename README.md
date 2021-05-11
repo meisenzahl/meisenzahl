@@ -19,6 +19,11 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
+    <td><p><a href="https://github.com/elementary/code/pull/996">elementary/code #996 · Create new app from template</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
     <td><p><a href="https://github.com/elementary/onboarding/pull/118">elementary/onboarding #118 · Hide Night Light on unsupported hardware</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
@@ -32,11 +37,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td><p><a href="https://github.com/elementary/installer/pull/504">elementary/installer #504 · Make preseed/kickstart/unattended install possible</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/code/pull/996">elementary/code #996 · Create new app from template</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/initial-setup/pull/92">elementary/initial-setup #92 · Option to install proprietary codecs</a></p></td>

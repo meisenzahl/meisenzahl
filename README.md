@@ -14,24 +14,19 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/code/pull/940">elementary/code #940 · Add build and run controls for Flatpak based projects</a></p></td>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-about/pull/209">elementary/switchboard-plug-about #209 · Provide a method for OEMs to include a logo for dark backgrounds</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/code/pull/996">elementary/code #996 · Create new app from template</a></p></td>
+    <td><p><a href="https://github.com/elementary/notifications/pull/85">elementary/notifications #85 · Play different sound when notification is urgent</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/wingpanel-indicator-network/pull/201">elementary/wingpanel-indicator-network #201 · Show an indicator icon for each active connection</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/notifications/pull/122">elementary/notifications #122 · Revert "Fix #117: Show icons for daemons (#118)"</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td><p><a href="https://github.com/elementary/installer/pull/504">elementary/installer #504 · Make preseed/kickstart/unattended install possible</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/onboarding/pull/118">elementary/onboarding #118 · Hide Night Light on unsupported hardware</a></p></td>
@@ -44,9 +39,24 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/installer/pull/504">elementary/installer #504 · Make preseed/kickstart/unattended install possible</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
+    <td><p><a href="https://github.com/elementary/code/pull/996">elementary/code #996 · Create new app from template</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/code/pull/940">elementary/code #940 · Add build and run controls for Flatpak based projects</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/wingpanel-indicator-network/pull/201">elementary/wingpanel-indicator-network #201 · Show an indicator icon for each active connection</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/notifications/pull/122">elementary/notifications #122 · Revert "Fix #117: Show icons for daemons (#118)"</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/initial-setup/pull/92">elementary/initial-setup #92 · Option to install proprietary codecs</a></p></td>
@@ -69,22 +79,12 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/notifications/pull/85">elementary/notifications #85 · Play different sound when notification is urgent</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
     <td><p><a href="https://github.com/elementary/sound-theme/pull/11">elementary/sound-theme #11 · Add a sound for urgent notifications</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/settings-daemon/pull/10">elementary/settings-daemon #10 · Add clock format</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-about/pull/209">elementary/switchboard-plug-about #209 · Provide a method for OEMs to include a logo for dark backgrounds</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>

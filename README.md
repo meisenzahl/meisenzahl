@@ -6,17 +6,12 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 18</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 16</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
     <th>State</th>
     <th>Mergeable</th>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/sound-theme/pull/11">elementary/sound-theme #11 · Add a sound for urgent notifications</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/initial-setup/pull/84">elementary/initial-setup #84 · Set 24h format based on language</a></p></td>
@@ -40,11 +35,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/switchboard-plug-about/pull/209">elementary/switchboard-plug-about #209 · Provide a method for OEMs to include a logo for dark backgrounds</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/notifications/pull/85">elementary/notifications #85 · Play different sound when notification is urgent</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
@@ -106,9 +96,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 52</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 53</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/notifications/pull/85">elementary/notifications #85 · Play different sound when notification is urgent</a></p></li>
 <li><p><a href="https://github.com/elementary/onboarding/pull/135">elementary/onboarding #135 · Set Up Online Accounts</a></p></li>
 <li><p><a href="https://github.com/elementary/applications-menu/pull/473">elementary/applications-menu #473 · Prioritize application actions over AppCenter search</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/263">elementary/switchboard-plug-pantheon-shell #263 · Set accent color based on wallpaper</a></p></li>

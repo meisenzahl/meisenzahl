@@ -6,12 +6,17 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 16</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 17</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
     <th>State</th>
     <th>Mergeable</th>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/appcenter-reviews/pull/44">elementary/appcenter-reviews #44 · com.github.manexim.typewriter 0.5.0</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/code/pull/940">elementary/code #940 · Add build and run controls for Flatpak based projects</a></p></td>

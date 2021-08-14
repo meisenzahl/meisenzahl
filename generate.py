@@ -15,6 +15,9 @@ def get_pull_requests_created_by(client, organization, username, state, verbose=
                 if state == "closed" and not pr.merged:
                     continue
 
+                if "{}/{}".format(organization, repo.name) in ["elementary/appcenter-reviews"]:
+                    continue
+
                 link = markdown.markdown("<a href=\"{}\">{}/{} #{} · {}</a>".format(
                     pr.html_url,
                     organization,

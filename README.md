@@ -106,9 +106,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 54</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 55</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/appcenter/pull/1597">elementary/appcenter #1597 · Application: Fix open button in toasts</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/227">elementary/switchboard-plug-about #227 · Use Pretty Hostname</a></p></li>
 <li><p><a href="https://github.com/elementary/notifications/pull/85">elementary/notifications #85 · Play different sound when notification is urgent</a></p></li>
 <li><p><a href="https://github.com/elementary/onboarding/pull/135">elementary/onboarding #135 · Set Up Online Accounts</a></p></li>

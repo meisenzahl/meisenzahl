@@ -14,6 +14,11 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
+    <td><p><a href="https://github.com/elementary/code/pull/996">elementary/code #996 · Create new app from template</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
     <td><p><a href="https://github.com/elementary/initial-setup/pull/125">elementary/initial-setup #125 · Check for network access</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
@@ -40,11 +45,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/initial-setup/pull/92">elementary/initial-setup #92 · Option to install proprietary codecs</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/code/pull/996">elementary/code #996 · Create new app from template</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>

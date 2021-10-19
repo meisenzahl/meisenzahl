@@ -15,8 +15,8 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/evince/pull/25">elementary/evince #25 · Install elementary icons</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/settings-daemon/pull/10">elementary/settings-daemon #10 · Add clock format</a></p></td>

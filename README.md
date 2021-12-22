@@ -6,7 +6,7 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 21</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 22</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
@@ -15,6 +15,11 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/initial-setup/pull/133">elementary/initial-setup #133 · Offer to switch to left-handed setup if right clicking "Next"</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/settings-daemon/pull/44">elementary/settings-daemon #44 · Add left handed</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>

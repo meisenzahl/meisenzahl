@@ -6,7 +6,7 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 23</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 22</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
@@ -14,17 +14,12 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/mail/pull/747">elementary/mail #747 · Use subject for window title of new message window</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
     <td><p><a href="https://github.com/elementary/initial-setup/pull/133">elementary/initial-setup #133 · Offer to switch to left-handed setup if right clicking "Next"</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/settings-daemon/pull/44">elementary/settings-daemon #44 · Add left handed</a></p></td>
+    <td><p><a href="https://github.com/elementary/mail/pull/747">elementary/mail #747 · Use subject for window title of new message window</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
@@ -131,9 +126,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 59</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 60</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/settings-daemon/pull/44">elementary/settings-daemon #44 · Add left handed</a></p></li>
 <li><p><a href="https://github.com/elementary/installer/pull/625">elementary/installer #625 · Warn about VMs</a></p></li>
 <li><p><a href="https://github.com/elementary/evince/pull/25">elementary/evince #25 · Install elementary icons</a></p></li>
 <li><p><a href="https://github.com/elementary/notifications/pull/122">elementary/notifications #122 · Revert "Fix #117: Show icons for daemons (#118)"</a></p></li>

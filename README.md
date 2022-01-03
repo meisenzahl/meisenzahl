@@ -14,6 +14,11 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
+    <td><p><a href="https://github.com/elementary/appcenter/pull/1793">elementary/appcenter #1793 · Automatically install Flatpak updates</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
     <td><p><a href="https://github.com/elementary/initial-setup/pull/133">elementary/initial-setup #133 · Offer to switch to left-handed setup if right clicking "Next"</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
@@ -25,11 +30,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/mail/pull/747">elementary/mail #747 · Use subject for window title of new message window</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/1793">elementary/appcenter #1793 · Automatically install Flatpak updates</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>

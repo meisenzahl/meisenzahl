@@ -6,7 +6,7 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 23</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 24</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
@@ -14,9 +14,14 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/1804">elementary/appcenter #1804 · Warn about apps built against old runtimes</a></p></td>
+    <td><p><a href="https://github.com/elementary/appcenter/pull/1804">elementary/appcenter #1804 · Warn about apps built against EOL runtimes</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/appcenter/pull/1807">elementary/appcenter #1807 · Warn about OS runtime mismatch</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/appcenter/pull/1806">elementary/appcenter #1806 · Check for firmware updates</a></p></td>

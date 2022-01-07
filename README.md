@@ -6,7 +6,7 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 22</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 21</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
@@ -14,7 +14,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/1793">elementary/appcenter #1793 · Automatically install curated Flatpak updates</a></p></td>
+    <td><p><a href="https://github.com/elementary/appcenter/pull/1790">elementary/appcenter #1790 · Pull apt updates less frequently</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
@@ -30,11 +30,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/camera/pull/204">elementary/camera #204 · Take photo or video on secondary click</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/1790">elementary/appcenter #1790 · Pull apt updates less frequently</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
@@ -126,9 +121,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 60</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 61</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/appcenter/pull/1793">elementary/appcenter #1793 · Automatically install curated Flatpak updates</a></p></li>
 <li><p><a href="https://github.com/elementary/settings-daemon/pull/44">elementary/settings-daemon #44 · Add left handed</a></p></li>
 <li><p><a href="https://github.com/elementary/installer/pull/625">elementary/installer #625 · Warn about VMs</a></p></li>
 <li><p><a href="https://github.com/elementary/evince/pull/25">elementary/evince #25 · Install elementary icons</a></p></li>

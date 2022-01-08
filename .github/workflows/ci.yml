@@ -1,0 +1,32 @@
+name: CI
+
+on:
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+
+jobs:
+  test:
+    name: Generate README.md 📄
+    runs-on: ubuntu-latest
+    steps:
+    - name: Pull changes ⬇️
+      uses: actions/checkout@master
+    - name: Set up Python 3.8 🐍
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - name: Install requirements 📦
+      run: pip install -r requirements.txt --user
+    - name: Generate README.md 📄
+      run: python generate.py
+      env:
+        GITHUB_ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        GITHUB_USER: ${{ secrets.USER }}
+    - name: Archive README.md 📄
+        uses: actions/upload-artifact@v2
+        with:
+          name: readme
+          path: README.md

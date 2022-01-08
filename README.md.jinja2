@@ -8,14 +8,14 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: {{ open | length }}</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: {{ elementary.open | length }}</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
     <th>State</th>
     <th>Mergeable</th>
   </tr>
-{% for pr in open -%}
+{% for pr in elementary.open -%}
   <tr>
     <td>{{ pr.link }}</td>
     <td>{% if pr.draft %}🏗️ Draft{% else %}👀️ Ready for review{% endif %}</td>
@@ -25,10 +25,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: {{ merged | length }}</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: {{ elementary.merged | length }}</b> (Click to expand)</summary>
 <p>
 <ul>
-{% for pr in merged -%}
+{% for pr in elementary.merged -%}
 <li>{{ pr.link }}</li>
 {% endfor -%}
 </ul>
@@ -37,12 +37,49 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 
 ## <img class="emoji" width="16" height="16" src="https://avatars.githubusercontent.com/u/25073806?s=200&v=4"> Manexim
 
-## Other projects
+<details><summary><b>Features I am working on: {{ manexim.open | length }}</b> (Click to expand)</summary>
+<table>
+  <tr>
+    <th>Title</th>
+    <th>State</th>
+    <th>Mergeable</th>
+  </tr>
+{% for pr in manexim.open -%}
+  <tr>
+    <td>{{ pr.link }}</td>
+    <td>{% if pr.draft %}🏗️ Draft{% else %}👀️ Ready for review{% endif %}</td>
+    <td>{% if pr.draft %}⤵️ Mergeable{% else %}⚠️ Merging is blocked{% endif %}</td>
+  </tr>
+{% endfor -%}
+</table>
+</details>
 
-<details><summary><b>Features I have contributed: {{ upstream | length }}</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: {{ manexim.merged | length }}</b> (Click to expand)</summary>
 <p>
 <ul>
-{% for pr in upstream -%}
+{% for pr in manexim.merged -%}
+<li>{{ pr.link }}</li>
+{% endfor -%}
+</ul>
+</p>
+</details>
+
+## Other projects
+
+<details><summary><b>Features I am working on: {{ other.open | length }}</b> (Click to expand)</summary>
+<p>
+<ul>
+{% for pr in other.open -%}
+<li>{{ pr.link }}</li>
+{% endfor -%}
+</ul>
+</p>
+</details>
+
+<details><summary><b>Features I have contributed: {{ other.merged | length }}</b> (Click to expand)</summary>
+<p>
+<ul>
+{% for pr in other.merged -%}
 <li>{{ pr.link }}</li>
 {% endfor -%}
 </ul>

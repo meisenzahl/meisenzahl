@@ -14,8 +14,6 @@ jobs:
     steps:
     - name: Pull changes ⬇️
       uses: actions/checkout@master
-      with:
-        ref: main
     - name: Set up Python 3.8 🐍
       uses: actions/setup-python@v1
       with:

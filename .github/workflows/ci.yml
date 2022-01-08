@@ -25,3 +25,8 @@ jobs:
       env:
         GITHUB_ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         GITHUB_USER: ${{ secrets.USER }}
+    - name: Archive README.md 📄
+        uses: actions/upload-artifact@v2
+        with:
+          name: readme
+          path: README.md

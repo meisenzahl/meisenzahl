@@ -80,7 +80,7 @@ def main():
         filter = org_on_github[1]
 
         context[name]["open"] = get_pull_requests_created_by(client, name, GITHUB_USER, "open", filter)
-        context[name["merged"] = get_pull_requests_created_by(client, name, GITHUB_USER, "closed", filter)
+        context[name]["merged"] = get_pull_requests_created_by(client, name, GITHUB_USER, "closed", filter)
 
         context[name]["open"].sort(key=lambda pr: pr["updated_at"], reverse=True)
         context[name]["merged"].sort(key=lambda pr: pr["updated_at"], reverse=True)

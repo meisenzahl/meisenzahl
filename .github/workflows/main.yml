@@ -31,7 +31,7 @@ jobs:
       uses: github-actions-x/commit@v2.7
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
-        push-branch: "master"
+        push-branch: "main"
         commit-message: "Update README.md"
         files: README.md
         name: GitHub Actions

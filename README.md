@@ -4,6 +4,8 @@ Founder at [semasquare](https://github.com/semasquare) <img class="emoji" width=
 
 In my freetime I like to help with the development of open source projects 👨‍💻
 
+## <img class="emoji" width="16" height="16" src="https://avatars.githubusercontent.com/u/1978534?s=200&v=4"> elementary OS
+
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
 <details><summary><b>Features I am working on: 24</b> (Click to expand)</summary>
@@ -204,7 +206,121 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </p>
 </details>
 
-<details><summary><b>Features I have contributed upstream: 2</b> (Click to expand)</summary>
+## <img class="emoji" width="16" height="16" src="https://avatars.githubusercontent.com/u/25073806?s=200&v=4"> Manexim
+
+<details><summary><b>Features I am working on: 8</b> (Click to expand)</summary>
+<table>
+  <tr>
+    <th>Title</th>
+    <th>State</th>
+    <th>Mergeable</th>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/manexim/typewriter/pull/17">manexim/typewriter #17 · Fix language config</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/manexim/home/pull/45">manexim/home #45 · Flux</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/manexim/codecard/pull/12">manexim/codecard #12 · Use screenshot portal</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/manexim/codecard/pull/3">manexim/codecard #3 · Custom syntax styles</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/manexim/news/pull/23">manexim/news #23 · Release version 0.2.0</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/manexim/messages/pull/15">manexim/messages #15 · Add support for elementary OS 6</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/manexim/flux/pull/1">manexim/flux #1 · Add initial version</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/manexim/messages/pull/9">manexim/messages #9 · Add messengers as plugins</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+</table>
+</details>
+
+<details><summary><b>Features I have contributed: 46</b> (Click to expand)</summary>
+<p>
+<ul>
+<li><p><a href="https://github.com/manexim/insomnia/pull/16">manexim/insomnia #16 · Release version 1.2.0</a></p></li>
+<li><p><a href="https://github.com/manexim/insomnia/pull/15">manexim/insomnia #15 · Rename to com.manexim.insomnia</a></p></li>
+<li><p><a href="https://github.com/manexim/insomnia/pull/14">manexim/insomnia #14 · Update runtime to 6.1</a></p></li>
+<li><p><a href="https://github.com/manexim/insomnia/pull/5">manexim/insomnia #5 · Odin</a></p></li>
+<li><p><a href="https://github.com/manexim/codecard/pull/13">manexim/codecard #13 · Use notification instead of toast</a></p></li>
+<li><p><a href="https://github.com/manexim/codecard/pull/11">manexim/codecard #11 · Update metainfo</a></p></li>
+<li><p><a href="https://github.com/manexim/codecard/pull/10">manexim/codecard #10 · UI fixes</a></p></li>
+<li><p><a href="https://github.com/manexim/codecard/pull/5">manexim/codecard #5 · Add stripe key</a></p></li>
+<li><p><a href="https://github.com/manexim/codecard/pull/4">manexim/codecard #4 · Fix autosave</a></p></li>
+<li><p><a href="https://github.com/manexim/codecard/pull/1">manexim/codecard #1 · Update icon</a></p></li>
+<li><p><a href="https://github.com/manexim/codecard/pull/2">manexim/codecard #2 · Satisfy linter</a></p></li>
+<li><p><a href="https://github.com/manexim/home/pull/51">manexim/home #51 · Release version 0.6.0</a></p></li>
+<li><p><a href="https://github.com/manexim/home/pull/44">manexim/home #44 · Odin</a></p></li>
+<li><p><a href="https://github.com/manexim/news/pull/22">manexim/news #22 · Redesign UI</a></p></li>
+<li><p><a href="https://github.com/manexim/news/pull/21">manexim/news #21 · Generate constants</a></p></li>
+<li><p><a href="https://github.com/manexim/news/pull/20">manexim/news #20 · Flux</a></p></li>
+<li><p><a href="https://github.com/manexim/news/pull/17">manexim/news #17 · Odin</a></p></li>
+<li><p><a href="https://github.com/manexim/insomnia/pull/13">manexim/insomnia #13 · Release version 1.1.3</a></p></li>
+<li><p><a href="https://github.com/manexim/typewriter/pull/25">manexim/typewriter #25 · Release version 0.6.1</a></p></li>
+<li><p><a href="https://github.com/manexim/insomnia/pull/12">manexim/insomnia #12 · Release version 1.1.2</a></p></li>
+<li><p><a href="https://github.com/manexim/insomnia/pull/11">manexim/insomnia #11 · Improve tooling</a></p></li>
+<li><p><a href="https://github.com/manexim/typewriter/pull/24">manexim/typewriter #24 · Release version 0.6.0</a></p></li>
+<li><p><a href="https://github.com/manexim/typewriter/pull/22">manexim/typewriter #22 · Update window handling</a></p></li>
+<li><p><a href="https://github.com/manexim/typewriter/pull/21">manexim/typewriter #21 · Improve tooling</a></p></li>
+<li><p><a href="https://github.com/manexim/typewriter/pull/23">manexim/typewriter #23 · Update Flatpak</a></p></li>
+<li><p><a href="https://github.com/manexim/typewriter/pull/13">manexim/typewriter #13 · Odin</a></p></li>
+<li><p><a href="https://github.com/manexim/home/pull/46">manexim/home #46 · Fix warnings</a></p></li>
+<li><p><a href="https://github.com/manexim/typewriter/pull/12">manexim/typewriter #12 · Improve ci</a></p></li>
+<li><p><a href="https://github.com/manexim/news/pull/14">manexim/news #14 · Set Node.js version to 10.17.0</a></p></li>
+<li><p><a href="https://github.com/manexim/home/pull/40">manexim/home #40 · Set Node.js version to 10.17.0</a></p></li>
+<li><p><a href="https://github.com/manexim/messages/pull/10">manexim/messages #10 · Set Node.js version to 10.17.0</a></p></li>
+<li><p><a href="https://github.com/manexim/typewriter/pull/6">manexim/typewriter #6 · Set Node.js version to 10.17.0</a></p></li>
+<li><p><a href="https://github.com/manexim/typewriter/pull/5">manexim/typewriter #5 · Add settings for zoom level</a></p></li>
+<li><p><a href="https://github.com/manexim/messages/pull/4">manexim/messages #4 · Improve native notifications support</a></p></li>
+<li><p><a href="https://github.com/manexim/messages/pull/5">manexim/messages #5 · Add linting</a></p></li>
+<li><p><a href="https://github.com/manexim/messages/pull/7">manexim/messages #7 · Open corresponding tab when clicking a notification</a></p></li>
+<li><p><a href="https://github.com/manexim/news/pull/3">manexim/news #3 · Updated name as requested for AppCenter</a></p></li>
+<li><p><a href="https://github.com/manexim/home/pull/36">manexim/home #36 · Release version 0.5.0</a></p></li>
+<li><p><a href="https://github.com/manexim/home/pull/31">manexim/home #31 · Release version 0.4.2</a></p></li>
+<li><p><a href="https://github.com/manexim/home/pull/30">manexim/home #30 · Release version 0.4.1</a></p></li>
+<li><p><a href="https://github.com/manexim/home/pull/25">manexim/home #25 · Release version 0.4.0</a></p></li>
+<li><p><a href="https://github.com/manexim/home/pull/13">manexim/home #13 · Fix for version 0.3.0</a></p></li>
+<li><p><a href="https://github.com/manexim/home/pull/11">manexim/home #11 · Release version 0.3.0</a></p></li>
+<li><p><a href="https://github.com/manexim/home/pull/5">manexim/home #5 · Suffix symbolic icon names with -symbolic</a></p></li>
+<li><p><a href="https://github.com/manexim/home/pull/1">manexim/home #1 · Develop</a></p></li>
+<li><p><a href="https://github.com/manexim/home/pull/4">manexim/home #4 · Remove mention of elementary OS in app description</a></p></li>
+</ul>
+</p>
+</details>
+
+## Other projects
+
+<details><summary><b>Features I am working on: 0</b> (Click to expand)</summary>
+<p>
+<ul>
+</ul>
+</p>
+</details>
+
+<details><summary><b>Features I have contributed: 2</b> (Click to expand)</summary>
 <p>
 <ul>
 <li><a href="https://gitlab.gnome.org/GNOME/libhandy/-/merge_requests/671">GNOME/libhandy #671 · carousel-box: Invalidate cache for children size allocate</a></li>

@@ -3,7 +3,7 @@ name: Update README.md 📄
 on:
   push:
     branches:
-    - master
+    - main
   schedule:
     - cron: "0 * * * *"
 

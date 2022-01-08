@@ -85,7 +85,7 @@ def main():
         context[name]["open"].sort(key=lambda pr: pr["updated_at"], reverse=True)
         context[name]["merged"].sort(key=lambda pr: pr["updated_at"], reverse=True)
                 
-    context["other"]["merged"][.append({
+    context["other"]["merged"].append({
         "link": '<a href="https://gitlab.gnome.org/GNOME/libhandy/-/merge_requests/671">GNOME/libhandy #671 · carousel-box: Invalidate cache for children size allocate</a>'
     })
     context["other"]["merged"].append({

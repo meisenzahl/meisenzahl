@@ -5,7 +5,7 @@ import jinja2
 import markdown
 import os
 
-def get_pull_requests_created_by(client, organization, username, state, verbose=True):
+def get_pull_requests_created_by(client, organization, username, state, filter, verbose=True):
     prs = []
 
     for repo in client.get_organization(organization).get_repos():
@@ -15,7 +15,7 @@ def get_pull_requests_created_by(client, organization, username, state, verbose=
                 if state == "closed" and not pr.merged:
                     continue
 
-                if "{}/{}".format(organization, repo.name) in ["elementary/appcenter-reviews"]:
+                if "{}/{}".format(organization, repo.name) in filter:
                     continue
 
                 link = markdown.markdown("<a href=\"{}\">{}/{} #{} · {}</a>".format(
@@ -56,21 +56,39 @@ def main():
     client = github.Github(GITHUB_ACCESS_TOKEN)
 
     context = {
-        "open": [],
-        "merged": [],
-        "upstream": [],
+        "elementary": {
+            "open": [],
+            "merged": [],
+        },
+        "manexim": {
+            "open": [],
+            "merged": [],
+        },
+        "other": {
+            "open": [],
+            "merged": [],
+        },
     }
+    
+    orgs_on_github = [
+        ("elementary", ["elementary/appcenter-reviews"]),
+        ("manexim", []),
+    ]
 
-    context["open"] = get_pull_requests_created_by(client, "elementary", GITHUB_USER, "open")
-    context["merged"] = get_pull_requests_created_by(client, "elementary", GITHUB_USER, "closed")
+    for org_on_github in orgs_on_github:
+        name = org_on_github[0]
+        filter = org_on_github[1]
 
-    context["open"].sort(key=lambda pr: pr["updated_at"], reverse=True)
-    context["merged"].sort(key=lambda pr: pr["updated_at"], reverse=True)
+        context[name]["open"] = get_pull_requests_created_by(client, name, GITHUB_USER, "open", filter)
+        context[name["merged"] = get_pull_requests_created_by(client, name, GITHUB_USER, "closed", filter)
 
-    context["upstream"].append({
+        context[name]["open"].sort(key=lambda pr: pr["updated_at"], reverse=True)
+        context[name]["merged"].sort(key=lambda pr: pr["updated_at"], reverse=True)
+                
+    context["other"]["merged"][.append({
         "link": '<a href="https://gitlab.gnome.org/GNOME/libhandy/-/merge_requests/671">GNOME/libhandy #671 · carousel-box: Invalidate cache for children size allocate</a>'
     })
-    context["upstream"].append({
+    context["other"]["merged"].append({
         "link": '<a href="https://gitlab.freedesktop.org/plymouth/plymouth/-/merge_requests/125">plymouth/plymouth #125 · Use fallback image if BGRT is not supported</a>'
     })
 

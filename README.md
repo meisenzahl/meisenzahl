@@ -8,12 +8,17 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 24</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 25</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
     <th>State</th>
     <th>Mergeable</th>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/action-appcenter-review-parse/pull/2">elementary/action-appcenter-review-parse #2 · Parse end of life</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/mail/pull/747">elementary/mail #747 · Use subject for window title of new message window</a></p></td>

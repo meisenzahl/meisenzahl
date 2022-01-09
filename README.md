@@ -17,8 +17,8 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/action-appcenter-review-parse/pull/2">elementary/action-appcenter-review-parse #2 · Parse end of life</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/mail/pull/747">elementary/mail #747 · Use subject for window title of new message window</a></p></td>

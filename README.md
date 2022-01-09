@@ -221,6 +221,11 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
+    <td><p><a href="https://github.com/manexim/codecard/pull/12">manexim/codecard #12 · Use screenshot portal</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
     <td><p><a href="https://github.com/manexim/typewriter/pull/17">manexim/typewriter #17 · Fix language config</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
@@ -229,11 +234,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td><p><a href="https://github.com/manexim/home/pull/45">manexim/home #45 · Flux</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/manexim/codecard/pull/12">manexim/codecard #12 · Use screenshot portal</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/manexim/codecard/pull/3">manexim/codecard #3 · Custom syntax styles</a></p></td>

@@ -17,8 +17,8 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/appcenter/pull/1807">elementary/appcenter #1807 · Warn about OS runtime mismatch</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/camera/pull/204">elementary/camera #204 · Take photo or video on secondary click</a></p></td>

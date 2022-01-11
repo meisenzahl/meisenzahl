@@ -8,7 +8,7 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 25</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 23</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
@@ -16,22 +16,17 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/1791">elementary/appcenter #1791 · Add a manual refresh button to update all caches</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
     <td><p><a href="https://github.com/elementary/mail/pull/747">elementary/mail #747 · Use subject for window title of new message window</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/1806">elementary/appcenter #1806 · Check for firmware updates</a></p></td>
+    <td><p><a href="https://github.com/elementary/appcenter/pull/1791">elementary/appcenter #1791 · Add a manual refresh button to update all caches</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/1807">elementary/appcenter #1807 · Warn about OS runtime mismatch</a></p></td>
+    <td><p><a href="https://github.com/elementary/appcenter/pull/1806">elementary/appcenter #1806 · Check for firmware updates</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
@@ -47,11 +42,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/appcenter/pull/1790">elementary/appcenter #1790 · Pull apt updates less frequently</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/1804">elementary/appcenter #1804 · Warn about apps built against EOL runtimes</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
@@ -143,9 +133,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 62</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 63</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/appcenter/pull/1807">elementary/appcenter #1807 · Warn about OS runtime mismatch</a></p></li>
 <li><p><a href="https://github.com/elementary/initial-setup/pull/133">elementary/initial-setup #133 · Offer to switch to left-handed setup if right clicking "Next"</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1793">elementary/appcenter #1793 · Automatically install curated Flatpak updates</a></p></li>
 <li><p><a href="https://github.com/elementary/settings-daemon/pull/44">elementary/settings-daemon #44 · Add left handed</a></p></li>
@@ -214,7 +205,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 
 ## <img class="emoji" width="16" height="16" src="https://avatars.githubusercontent.com/u/25073806?s=200&v=4"> Manexim
 
-<details><summary><b>Features I am working on: 8</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 7</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
@@ -222,7 +213,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/manexim/codecard/pull/12">manexim/codecard #12 · Simplify export of Codecard</a></p></td>
+    <td><p><a href="https://github.com/manexim/codecard/pull/3">manexim/codecard #3 · Custom syntax styles</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
@@ -235,11 +226,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td><p><a href="https://github.com/manexim/home/pull/45">manexim/home #45 · Flux</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/manexim/codecard/pull/3">manexim/codecard #3 · Custom syntax styles</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/manexim/news/pull/23">manexim/news #23 · Release version 0.2.0</a></p></td>
@@ -264,9 +250,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 46</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 47</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/manexim/codecard/pull/12">manexim/codecard #12 · Simplify export of Codecard</a></p></li>
 <li><p><a href="https://github.com/manexim/insomnia/pull/16">manexim/insomnia #16 · Release version 1.2.0</a></p></li>
 <li><p><a href="https://github.com/manexim/insomnia/pull/15">manexim/insomnia #15 · Rename to com.manexim.insomnia</a></p></li>
 <li><p><a href="https://github.com/manexim/insomnia/pull/14">manexim/insomnia #14 · Update runtime to 6.1</a></p></li>

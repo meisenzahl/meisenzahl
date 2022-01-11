@@ -226,7 +226,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/manexim/codecard/pull/12">manexim/codecard #12 · Use screenshot portal</a></p></td>
+    <td><p><a href="https://github.com/manexim/codecard/pull/12">manexim/codecard #12 · Simplify export of Codecard</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>

@@ -247,9 +247,11 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 47</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 49</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/manexim/codecard/pull/15">manexim/codecard #15 · Release version 1.1.0</a></p></li>
+<li><p><a href="https://github.com/manexim/codecard/pull/14">manexim/codecard #14 · Update font</a></p></li>
 <li><p><a href="https://github.com/manexim/codecard/pull/12">manexim/codecard #12 · Simplify export of Codecard</a></p></li>
 <li><p><a href="https://github.com/manexim/insomnia/pull/16">manexim/insomnia #16 · Release version 1.2.0</a></p></li>
 <li><p><a href="https://github.com/manexim/insomnia/pull/15">manexim/insomnia #15 · Rename to com.manexim.insomnia</a></p></li>

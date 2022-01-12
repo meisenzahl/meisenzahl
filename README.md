@@ -16,6 +16,11 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-about/pull/209">elementary/switchboard-plug-about #209 · Provide a method for OEMs to include a logo for dark backgrounds</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
     <td><p><a href="https://github.com/elementary/appcenter/pull/1790">elementary/appcenter #1790 · Pull apt updates less frequently</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
@@ -42,11 +47,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/action-appcenter-review-parse/pull/2">elementary/action-appcenter-review-parse #2 · Parse end of life</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-about/pull/209">elementary/switchboard-plug-about #209 · Provide a method for OEMs to include a logo for dark backgrounds</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>

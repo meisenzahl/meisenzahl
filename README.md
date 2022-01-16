@@ -16,22 +16,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/1816">elementary/appcenter #1816 · Show only curated apps in other apps footer</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/1790">elementary/appcenter #1790 · Pull apt updates less frequently</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/1791">elementary/appcenter #1791 · Add a manual refresh button to update all caches</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/1811">elementary/appcenter #1811 · Trigger auto-updates when opening the app</a></p></td>
+    <td><p><a href="https://github.com/elementary/appcenter/pull/1806">elementary/appcenter #1806 · Check for firmware updates</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
@@ -41,7 +26,22 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/1806">elementary/appcenter #1806 · Check for firmware updates</a></p></td>
+    <td><p><a href="https://github.com/elementary/appcenter/pull/1811">elementary/appcenter #1811 · Trigger auto-updates when opening the app</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/appcenter/pull/1791">elementary/appcenter #1791 · Add a manual refresh button to update all caches</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/appcenter/pull/1790">elementary/appcenter #1790 · Pull apt updates less frequently</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/appcenter/pull/1816">elementary/appcenter #1816 · Show only curated apps in "Other Apps" footer</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>

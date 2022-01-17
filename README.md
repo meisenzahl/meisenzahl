@@ -16,16 +16,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/1806">elementary/appcenter #1806 · Check for firmware updates</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/settings-daemon/pull/45">elementary/settings-daemon #45 · Check for firmware updates</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
     <td><p><a href="https://github.com/elementary/appcenter/pull/1811">elementary/appcenter #1811 · Trigger auto-updates when opening the app</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
@@ -47,6 +37,16 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/camera/pull/204">elementary/camera #204 · Take photo or video on secondary click</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/appcenter/pull/1806">elementary/appcenter #1806 · Check for firmware updates</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/settings-daemon/pull/45">elementary/settings-daemon #45 · Check for firmware updates</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>

@@ -8,17 +8,12 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 23</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 22</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
     <th>State</th>
     <th>Mergeable</th>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/camera/pull/204">elementary/camera #204 · Take photo or video on secondary click</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/initial-setup/pull/84">elementary/initial-setup #84 · Set 24h format based on language</a></p></td>
@@ -133,9 +128,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 68</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 69</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/camera/pull/204">elementary/camera #204 · Take photo or video on secondary click</a></p></li>
 <li><p><a href="https://github.com/elementary/initial-setup/pull/125">elementary/initial-setup #125 · Check for network access</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1811">elementary/appcenter #1811 · Trigger auto-updates when opening the app</a></p></li>
 <li><p><a href="https://github.com/elementary/action-appcenter-review-parse/pull/2">elementary/action-appcenter-review-parse #2 · feat: add end-of-life support</a></p></li>

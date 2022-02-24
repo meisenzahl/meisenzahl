@@ -6,7 +6,7 @@ Jinja2==2.11.2
 Markdown==3.3.3
 MarkupSafe==2.0.1
 PyGithub==1.54
-PyJWT==2.3.0
+PyJWT==1.7.1
 requests==2.24.0
 urllib3==1.25.11
 wrapt==1.13.3

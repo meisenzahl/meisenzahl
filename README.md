@@ -8,7 +8,7 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 24</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 23</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
@@ -32,11 +32,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/initial-setup/pull/84">elementary/initial-setup #84 · Set 24h format based on language</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/greeter/pull/599">elementary/greeter #599 · Release 6.0.2</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
@@ -138,9 +133,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 70</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 71</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/greeter/pull/599">elementary/greeter #599 · Release 6.0.2</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/244">elementary/switchboard-plug-about #244 · Add support for offline firmware updates</a></p></li>
 <li><p><a href="https://github.com/elementary/camera/pull/204">elementary/camera #204 · Take photo or video on secondary click</a></p></li>
 <li><p><a href="https://github.com/elementary/initial-setup/pull/125">elementary/initial-setup #125 · Check for network access</a></p></li>

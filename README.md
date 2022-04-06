@@ -16,6 +16,16 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
+    <td><p><a href="https://github.com/elementary/settings-daemon/pull/48">elementary/settings-daemon #48 · Offline system upgrades</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/settings-daemon/pull/45">elementary/settings-daemon #45 · Check for firmware updates</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
     <td><p><a href="https://github.com/elementary/appcenter/pull/1816">elementary/appcenter #1816 · Show only curated apps in "Other Apps" footer</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
@@ -37,16 +47,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/initial-setup/pull/84">elementary/initial-setup #84 · Set 24h format based on language</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/settings-daemon/pull/48">elementary/settings-daemon #48 · Offline system upgrades</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/settings-daemon/pull/45">elementary/settings-daemon #45 · Check for firmware updates</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>

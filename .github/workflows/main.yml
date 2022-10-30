@@ -28,7 +28,7 @@ jobs:
         GITHUB_ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         GITHUB_USER: ${{ secrets.USER }}
     - name: Push changes ⬆️
-      uses: github-actions-x/commit@v2.7
+      uses: github-actions-x/commit@v2.9
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         push-branch: "main"

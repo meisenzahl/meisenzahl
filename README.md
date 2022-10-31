@@ -8,12 +8,22 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 19</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 20</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
     <th>State</th>
     <th>Mergeable</th>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/appcenter/pull/1943">elementary/appcenter #1943 · Install deb based Operating System Updates as Offline Updates</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-about/pull/253">elementary/switchboard-plug-about #253 · Reboot to Firmware Setup</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/switchboard-plug-about/pull/245">elementary/switchboard-plug-about #245 · Offline system upgrades</a></p></td>
@@ -27,11 +37,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/settings-daemon/pull/45">elementary/settings-daemon #45 · Check for firmware updates</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-about/pull/253">elementary/switchboard-plug-about #253 · Reboot to Firmware Setup</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>

@@ -21,12 +21,12 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/evince/pull/37">elementary/evince #37 · Install Evince Flatpak</a></p></td>
+    <td><p><a href="https://github.com/elementary/browser/pull/67">elementary/browser #67 · Install Browser Flatpak</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/browser/pull/67">elementary/browser #67 · Install Browser Flatpak</a></p></td>
+    <td><p><a href="https://github.com/elementary/evince/pull/37">elementary/evince #37 · Install Evince Flatpak</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>

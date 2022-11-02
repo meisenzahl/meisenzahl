@@ -21,12 +21,12 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/camera/pull/247">elementary/camera #247 · Install Camera Flatpak</a></p></td>
+    <td><p><a href="https://github.com/elementary/calculator/pull/231">elementary/calculator #231 · Install Calculator Flatpak</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/calculator/pull/231">elementary/calculator #231 · Install Calculator Flatpak</a></p></td>
+    <td><p><a href="https://github.com/elementary/camera/pull/247">elementary/camera #247 · Install Camera Flatpak</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>

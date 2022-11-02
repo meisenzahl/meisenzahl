@@ -8,12 +8,27 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 19</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 22</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
     <th>State</th>
     <th>Mergeable</th>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/os/pull/632">elementary/os #632 · Install elementary apps via apt</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/camera/pull/247">elementary/camera #247 · Install Camera Flatpak</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/calculator/pull/231">elementary/calculator #231 · Install Calculator Flatpak</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/appcenter/pull/1943">elementary/appcenter #1943 · Install PackageKit based Operating System Updates as Offline Updates</a></p></td>

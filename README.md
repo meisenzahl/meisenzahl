@@ -8,7 +8,7 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 25</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 23</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
@@ -32,16 +32,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/seeds/pull/98">elementary/seeds #98 · Install elementary apps via apt</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/calculator/pull/231">elementary/calculator #231 · Install Calculator Flatpak</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/camera/pull/247">elementary/camera #247 · Install Camera Flatpak</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
@@ -143,9 +133,11 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 75</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 77</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/calculator/pull/231">elementary/calculator #231 · Install Calculator Flatpak</a></p></li>
+<li><p><a href="https://github.com/elementary/camera/pull/247">elementary/camera #247 · Install Camera Flatpak</a></p></li>
 <li><p><a href="https://github.com/elementary/os/pull/631">elementary/os #631 · Enable security repositories</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/253">elementary/switchboard-plug-about #253 · Reboot to Firmware Setup</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1791">elementary/appcenter #1791 · Add a manual refresh button to update all caches</a></p></li>

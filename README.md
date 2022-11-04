@@ -8,17 +8,12 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 22</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 21</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
     <th>State</th>
     <th>Mergeable</th>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/seeds/pull/98">elementary/seeds #98 · Install elementary apps via apt</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/os-patches/pull/258">elementary/os-patches #258 · Rename elementary OS to elementary-os</a></p></td>
@@ -128,9 +123,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 79</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 80</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/seeds/pull/98">elementary/seeds #98 · Install elementary apps via apt</a></p></li>
 <li><p><a href="https://github.com/elementary/browser/pull/67">elementary/browser #67 · Install Browser Flatpak</a></p></li>
 <li><p><a href="https://github.com/elementary/evince/pull/37">elementary/evince #37 · Install Evince Flatpak</a></p></li>
 <li><p><a href="https://github.com/elementary/calculator/pull/231">elementary/calculator #231 · Install Calculator Flatpak</a></p></li>

@@ -16,12 +16,12 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/os-patches/pull/258">elementary/os-patches #258 · Rename elementary OS to elementary-os</a></p></td>
+    <td><p><a href="https://github.com/elementary/os/pull/632">elementary/os #632 · Install elementary apps via apt</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/os/pull/632">elementary/os #632 · Install elementary apps via apt</a></p></td>
+    <td><p><a href="https://github.com/elementary/os-patches/pull/258">elementary/os-patches #258 · Rename elementary OS to elementary-os</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>

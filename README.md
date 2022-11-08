@@ -16,12 +16,12 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/gala/pull/1376">elementary/gala #1376 · Play login sound</a></p></td>
+    <td><p><a href="https://github.com/elementary/settings-daemon/pull/45">elementary/settings-daemon #45 · Check for firmware updates</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/settings-daemon/pull/45">elementary/settings-daemon #45 · Check for firmware updates</a></p></td>
+    <td><p><a href="https://github.com/elementary/gala/pull/1376">elementary/gala #1376 · Play login sound</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>

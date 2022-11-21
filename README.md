@@ -88,9 +88,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 83</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 84</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/os/pull/639">elementary/os #639 · Fix Pinebook Pro builds</a></p></li>
 <li><p><a href="https://github.com/elementary/os-patches/pull/258">elementary/os-patches #258 · Rename elementary OS to elementary-os</a></p></li>
 <li><p><a href="https://github.com/elementary/os/pull/635">elementary/os #635 · Switch mode to debian</a></p></li>
 <li><p><a href="https://github.com/elementary/os/pull/632">elementary/os #632 · Install elementary apps via apt</a></p></li>

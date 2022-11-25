@@ -8,7 +8,7 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 15</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 14</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
@@ -22,11 +22,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/sound-theme/pull/16">elementary/sound-theme #16 · Add login sound</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/greeter/pull/628">elementary/greeter #628 · Fix double login authentication</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>
@@ -93,9 +88,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 84</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 85</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/greeter/pull/628">elementary/greeter #628 · Fix double login authentication</a></p></li>
 <li><p><a href="https://github.com/elementary/os/pull/639">elementary/os #639 · Fix Pinebook Pro builds</a></p></li>
 <li><p><a href="https://github.com/elementary/os-patches/pull/258">elementary/os-patches #258 · Rename elementary OS to elementary-os</a></p></li>
 <li><p><a href="https://github.com/elementary/os/pull/635">elementary/os #635 · Switch mode to debian</a></p></li>

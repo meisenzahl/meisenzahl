@@ -8,7 +8,7 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 16</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 15</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
@@ -19,11 +19,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td><p><a href="https://github.com/elementary/greeter/pull/629">elementary/greeter #629 · Fix double login restrict polkit</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/screenshot/pull/250">elementary/screenshot #250 · Update runtime to version 7</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/gala/pull/1376">elementary/gala #1376 · Play login sound</a></p></td>

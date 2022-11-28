@@ -98,9 +98,11 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 85</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 87</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/screenshot/pull/250">elementary/screenshot #250 · Update runtime to version 7</a></p></li>
+<li><p><a href="https://github.com/elementary/onboarding/pull/184">elementary/onboarding #184 · MainWindow: warn about daily builds</a></p></li>
 <li><p><a href="https://github.com/elementary/greeter/pull/628">elementary/greeter #628 · Fix double login authentication</a></p></li>
 <li><p><a href="https://github.com/elementary/os/pull/639">elementary/os #639 · Fix Pinebook Pro builds</a></p></li>
 <li><p><a href="https://github.com/elementary/os-patches/pull/258">elementary/os-patches #258 · Rename elementary OS to elementary-os</a></p></li>

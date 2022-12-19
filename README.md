@@ -189,17 +189,12 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 
 ## <img class="emoji" width="16" height="16" src="https://avatars.githubusercontent.com/u/25073806?s=200&v=4"> Manexim
 
-<details><summary><b>Features I am working on: 8</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 7</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
     <th>State</th>
     <th>Mergeable</th>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/manexim/codecard/pull/20">manexim/codecard #20 · Update Flatpak runtime to 7.1</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/manexim/codecard/pull/3">manexim/codecard #3 · Custom syntax styles</a></p></td>

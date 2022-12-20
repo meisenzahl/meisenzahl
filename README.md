@@ -8,17 +8,12 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 16</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 15</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
     <th>State</th>
     <th>Mergeable</th>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/1956">elementary/appcenter #1956 · Flatpak Runtimes</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/appcenter/pull/1943">elementary/appcenter #1943 · Install PackageKit based Operating System Updates as Offline Updates</a></p></td>
@@ -98,9 +93,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 87</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 88</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/appcenter/pull/1956">elementary/appcenter #1956 · Flatpak Runtimes</a></p></li>
 <li><p><a href="https://github.com/elementary/screenshot/pull/250">elementary/screenshot #250 · Update runtime to version 7</a></p></li>
 <li><p><a href="https://github.com/elementary/onboarding/pull/184">elementary/onboarding #184 · MainWindow: warn about daily builds</a></p></li>
 <li><p><a href="https://github.com/elementary/greeter/pull/628">elementary/greeter #628 · Fix double login authentication</a></p></li>

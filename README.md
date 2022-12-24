@@ -16,12 +16,12 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-about/pull/245">elementary/switchboard-plug-about #245 · Offline system upgrades</a></p></td>
+    <td><p><a href="https://github.com/elementary/settings-daemon/pull/48">elementary/settings-daemon #48 · Offline system upgrades</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/settings-daemon/pull/48">elementary/settings-daemon #48 · Offline system upgrades</a></p></td>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-about/pull/245">elementary/switchboard-plug-about #245 · Offline system upgrades</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
   </tr>

@@ -8,12 +8,22 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 16</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 17</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
     <th>State</th>
     <th>Mergeable</th>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/gala/pull/1493">elementary/gala #1493 · Hide Others</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/appcenter/pull/1962">elementary/appcenter #1962 · Pretty output Flatpak package origins</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/appcenter/pull/1961">elementary/appcenter #1961 · Group updates that require a restart</a></p></td>
@@ -44,11 +54,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td><p><a href="https://github.com/elementary/settings-daemon/pull/48">elementary/settings-daemon #48 · Offline system upgrades</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/gala/pull/1493">elementary/gala #1493 · Hide Others</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/gala/pull/1376">elementary/gala #1376 · Play login sound</a></p></td>

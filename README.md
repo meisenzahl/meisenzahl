@@ -8,17 +8,12 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 17</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 16</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
     <th>State</th>
     <th>Mergeable</th>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/1962">elementary/appcenter #1962 · Pretty output Flatpak package origins</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/gala/pull/1493">elementary/gala #1493 · Hide Others</a></p></td>
@@ -103,9 +98,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 90</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 91</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/appcenter/pull/1962">elementary/appcenter #1962 · Pretty output Flatpak package origins</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1943">elementary/appcenter #1943 · Install PackageKit based Operating System Updates as Offline Updates</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1957">elementary/appcenter #1957 · Size information for Runtime Updates</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1956">elementary/appcenter #1956 · Flatpak Runtimes</a></p></li>

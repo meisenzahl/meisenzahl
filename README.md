@@ -8,12 +8,17 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 17</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 18</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
     <th>State</th>
     <th>Mergeable</th>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/wingpanel-indicator-session/pull/172">elementary/wingpanel-indicator-session #172 · Hide user settings in Demo Mode</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/appcenter/pull/1963">elementary/appcenter #1963 · Warn running in Demo Mode</a></p></td>

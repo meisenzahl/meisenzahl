@@ -8,7 +8,7 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 19</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 16</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
@@ -16,22 +16,12 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/1963">elementary/appcenter #1963 · Warn running in Demo Mode</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/1960">elementary/appcenter #1960 · Show Operating System Updates and Runtime Updates only if available</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/wingpanel-indicator-session/pull/172">elementary/wingpanel-indicator-session #172 · Hide user settings in Demo Mode</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
     <td><p><a href="https://github.com/elementary/appcenter/pull/1964">elementary/appcenter #1964 · Make loading updates async from main AppCenter window</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/appcenter/pull/1961">elementary/appcenter #1961 · Group updates that require a restart</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
   </tr>
@@ -39,11 +29,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td><p><a href="https://github.com/elementary/gala/pull/1493">elementary/gala #1493 · Hide Others</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/1961">elementary/appcenter #1961 · Group updates that require a restart</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/settings-daemon/pull/45">elementary/settings-daemon #45 · Check for firmware updates</a></p></td>
@@ -113,9 +98,12 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 91</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 94</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/wingpanel-indicator-session/pull/172">elementary/wingpanel-indicator-session #172 · Hide user settings in Demo Mode</a></p></li>
+<li><p><a href="https://github.com/elementary/appcenter/pull/1960">elementary/appcenter #1960 · Show Operating System Updates and Runtime Updates only if available</a></p></li>
+<li><p><a href="https://github.com/elementary/appcenter/pull/1963">elementary/appcenter #1963 · Warn running in Demo Mode</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1962">elementary/appcenter #1962 · Pretty output Flatpak package origins</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1943">elementary/appcenter #1943 · Install PackageKit based Operating System Updates as Offline Updates</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1957">elementary/appcenter #1957 · Size information for Runtime Updates</a></p></li>

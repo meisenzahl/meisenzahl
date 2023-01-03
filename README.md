@@ -17,8 +17,8 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/appcenter/pull/1964">elementary/appcenter #1964 · Make loading updates async from main AppCenter window</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/appcenter/pull/1961">elementary/appcenter #1961 · Group updates that require a restart</a></p></td>

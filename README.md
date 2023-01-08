@@ -16,199 +16,199 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/initial-setup/pull/160">elementary/initial-setup #160 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/wingpanel-indicator-bluetooth/pull/185">elementary/wingpanel-indicator-bluetooth #185 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/pantheon-agent-geoclue2/pull/56">elementary/pantheon-agent-geoclue2 #56 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-useraccounts/pull/189">elementary/switchboard-plug-useraccounts #189 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/wingpanel-indicator-network/pull/255">elementary/wingpanel-indicator-network #255 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/wingpanel-indicator-sound/pull/245">elementary/wingpanel-indicator-sound #245 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/wingpanel-indicator-a11y/pull/54">elementary/wingpanel-indicator-a11y #54 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-printers/pull/185">elementary/switchboard-plug-printers #185 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/camera/pull/252">elementary/camera #252 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/calculator/pull/239">elementary/calculator #239 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-sound/pull/233">elementary/switchboard-plug-sound #233 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-security-privacy/pull/142">elementary/switchboard-plug-security-privacy #142 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-display/pull/336">elementary/switchboard-plug-display #336 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-parental-controls/pull/164">elementary/switchboard-plug-parental-controls #164 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-sharing/pull/58">elementary/switchboard-plug-sharing #58 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/wingpanel-indicator-privacy/pull/42">elementary/wingpanel-indicator-privacy #42 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/tasks/pull/346">elementary/tasks #346 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/installer/pull/677">elementary/installer #677 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/greeter/pull/631">elementary/greeter #631 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-network/pull/345">elementary/switchboard-plug-network #345 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td><p><a href="https://github.com/elementary/notifications/pull/183">elementary/notifications #183 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/wingpanel-indicator-nightlight/pull/94">elementary/wingpanel-indicator-nightlight #94 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/notifications/pull/183">elementary/notifications #183 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-network/pull/345">elementary/switchboard-plug-network #345 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-about/pull/256">elementary/switchboard-plug-about #256 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td><p><a href="https://github.com/elementary/greeter/pull/631">elementary/greeter #631 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/wingpanel-indicator-keyboard/pull/120">elementary/wingpanel-indicator-keyboard #120 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td><p><a href="https://github.com/elementary/tasks/pull/346">elementary/tasks #346 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-wallet/pull/29">elementary/switchboard-plug-wallet #29 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td><p><a href="https://github.com/elementary/wingpanel-indicator-privacy/pull/42">elementary/wingpanel-indicator-privacy #42 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/wingpanel-indicator-power/pull/241">elementary/wingpanel-indicator-power #241 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-sharing/pull/58">elementary/switchboard-plug-sharing #58 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/feedback/pull/86">elementary/feedback #86 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-parental-controls/pull/164">elementary/switchboard-plug-parental-controls #164 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/339">elementary/switchboard-plug-pantheon-shell #339 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-display/pull/336">elementary/switchboard-plug-display #336 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/gala/pull/1513">elementary/gala #1513 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-security-privacy/pull/142">elementary/switchboard-plug-security-privacy #142 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/capnet-assist/pull/94">elementary/capnet-assist #94 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-sound/pull/233">elementary/switchboard-plug-sound #233 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/photos/pull/731">elementary/photos #731 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td><p><a href="https://github.com/elementary/calculator/pull/239">elementary/calculator #239 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/default-settings/pull/276">elementary/default-settings #276 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td><p><a href="https://github.com/elementary/camera/pull/252">elementary/camera #252 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-onlineaccounts/pull/247">elementary/switchboard-plug-onlineaccounts #247 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-printers/pull/185">elementary/switchboard-plug-printers #185 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-mouse-touchpad/pull/209">elementary/switchboard-plug-mouse-touchpad #209 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td><p><a href="https://github.com/elementary/wingpanel-indicator-a11y/pull/54">elementary/wingpanel-indicator-a11y #54 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/switchboard/pull/254">elementary/switchboard #254 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td><p><a href="https://github.com/elementary/wingpanel-indicator-sound/pull/245">elementary/wingpanel-indicator-sound #245 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/videos/pull/323">elementary/videos #323 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td><p><a href="https://github.com/elementary/wingpanel-indicator-network/pull/255">elementary/wingpanel-indicator-network #255 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/granite/pull/630">elementary/granite #630 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-useraccounts/pull/189">elementary/switchboard-plug-useraccounts #189 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/screenshot/pull/255">elementary/screenshot #255 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td><p><a href="https://github.com/elementary/pantheon-agent-geoclue2/pull/56">elementary/pantheon-agent-geoclue2 #56 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/wingpanel-indicator-bluetooth/pull/185">elementary/wingpanel-indicator-bluetooth #185 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/initial-setup/pull/160">elementary/initial-setup #160 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/mail/pull/811">elementary/mail #811 · actions/checkout@v3</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/screenshot/pull/255">elementary/screenshot #255 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/granite/pull/630">elementary/granite #630 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/videos/pull/323">elementary/videos #323 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/switchboard/pull/254">elementary/switchboard #254 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-mouse-touchpad/pull/209">elementary/switchboard-plug-mouse-touchpad #209 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-onlineaccounts/pull/247">elementary/switchboard-plug-onlineaccounts #247 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/default-settings/pull/276">elementary/default-settings #276 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/photos/pull/731">elementary/photos #731 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/capnet-assist/pull/94">elementary/capnet-assist #94 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/gala/pull/1513">elementary/gala #1513 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/339">elementary/switchboard-plug-pantheon-shell #339 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/feedback/pull/86">elementary/feedback #86 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/wingpanel-indicator-power/pull/241">elementary/wingpanel-indicator-power #241 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-wallet/pull/29">elementary/switchboard-plug-wallet #29 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/wingpanel-indicator-keyboard/pull/120">elementary/wingpanel-indicator-keyboard #120 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/installer/pull/677">elementary/installer #677 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-about/pull/256">elementary/switchboard-plug-about #256 · actions/checkout@v3</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/initial-setup/pull/92">elementary/initial-setup #92 · Option to install proprietary codecs</a></p></td>

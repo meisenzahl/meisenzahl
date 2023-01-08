@@ -8,12 +8,107 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 16</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 35</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
     <th>State</th>
     <th>Mergeable</th>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/installer/pull/677">elementary/installer #677 · actions/checkout@v3</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-about/pull/256">elementary/switchboard-plug-about #256 · actions/checkout@v3</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/wingpanel-indicator-keyboard/pull/120">elementary/wingpanel-indicator-keyboard #120 · actions/checkout@v3</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-wallet/pull/29">elementary/switchboard-plug-wallet #29 · actions/checkout@v3</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/wingpanel-indicator-power/pull/241">elementary/wingpanel-indicator-power #241 · actions/checkout@v3</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/feedback/pull/86">elementary/feedback #86 · actions/checkout@v3</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/339">elementary/switchboard-plug-pantheon-shell #339 · actions/checkout@v3</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/gala/pull/1513">elementary/gala #1513 · actions/checkout@v3</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/capnet-assist/pull/94">elementary/capnet-assist #94 · actions/checkout@v3</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/stylesheet/pull/1238">elementary/stylesheet #1238 · actions/checkout@v3</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/photos/pull/731">elementary/photos #731 · actions/checkout@v3</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/default-settings/pull/276">elementary/default-settings #276 · actions/checkout@v3</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-onlineaccounts/pull/247">elementary/switchboard-plug-onlineaccounts #247 · actions/checkout@v3</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-mouse-touchpad/pull/209">elementary/switchboard-plug-mouse-touchpad #209 · actions/checkout@v3</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/switchboard/pull/254">elementary/switchboard #254 · actions/checkout@v3</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/videos/pull/323">elementary/videos #323 · actions/checkout@v3</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/granite/pull/630">elementary/granite #630 · actions/checkout@v3</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/screenshot/pull/255">elementary/screenshot #255 · actions/checkout@v3</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/mail/pull/811">elementary/mail #811 · actions/checkout@v3</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/initial-setup/pull/92">elementary/initial-setup #92 · Option to install proprietary codecs</a></p></td>
@@ -98,9 +193,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 96</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 97</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/appcenter/pull/1966">elementary/appcenter #1966 · actions/checkout@v3</a></p></li>
 <li><p><a href="https://github.com/elementary/initial-setup/pull/159">elementary/initial-setup #159 · Remove duplicate handy dependency</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1964">elementary/appcenter #1964 · Make loading updates async from main AppCenter window</a></p></li>
 <li><p><a href="https://github.com/elementary/wingpanel-indicator-session/pull/172">elementary/wingpanel-indicator-session #172 · Hide user settings in Demo Mode</a></p></li>

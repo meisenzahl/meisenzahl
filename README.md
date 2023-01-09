@@ -8,7 +8,7 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 56</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 55</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
@@ -117,11 +117,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/wingpanel-indicator-bluetooth/pull/185">elementary/wingpanel-indicator-bluetooth #185 · actions/checkout@v3</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/initial-setup/pull/160">elementary/initial-setup #160 · actions/checkout@v3</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
   </tr>
@@ -298,9 +293,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 98</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 99</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/initial-setup/pull/160">elementary/initial-setup #160 · actions/checkout@v3</a></p></li>
 <li><p><a href="https://github.com/elementary/stylesheet/pull/1238">elementary/stylesheet #1238 · actions/checkout@v3</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1966">elementary/appcenter #1966 · actions/checkout@v3</a></p></li>
 <li><p><a href="https://github.com/elementary/initial-setup/pull/159">elementary/initial-setup #159 · Remove duplicate handy dependency</a></p></li>

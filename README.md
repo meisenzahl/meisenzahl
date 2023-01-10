@@ -8,7 +8,7 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 31</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 27</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
@@ -22,11 +22,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/appcenter/pull/1961">elementary/appcenter #1961 · Group updates that require a restart</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/notifications/pull/183">elementary/notifications #183 · actions/checkout@v3</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
   </tr>
@@ -62,21 +57,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/videos/pull/323">elementary/videos #323 · actions/checkout@v3</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-onlineaccounts/pull/247">elementary/switchboard-plug-onlineaccounts #247 · actions/checkout@v3</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/default-settings/pull/276">elementary/default-settings #276 · actions/checkout@v3</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/photos/pull/731">elementary/photos #731 · actions/checkout@v3</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
   </tr>
@@ -173,9 +153,13 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 123</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 127</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/notifications/pull/183">elementary/notifications #183 · actions/checkout@v3</a></p></li>
+<li><p><a href="https://github.com/elementary/photos/pull/731">elementary/photos #731 · actions/checkout@v3</a></p></li>
+<li><p><a href="https://github.com/elementary/default-settings/pull/276">elementary/default-settings #276 · actions/checkout@v3</a></p></li>
+<li><p><a href="https://github.com/elementary/switchboard-plug-onlineaccounts/pull/247">elementary/switchboard-plug-onlineaccounts #247 · actions/checkout@v3</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-mouse-touchpad/pull/209">elementary/switchboard-plug-mouse-touchpad #209 · actions/checkout@v3</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard/pull/254">elementary/switchboard #254 · actions/checkout@v3</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/256">elementary/switchboard-plug-about #256 · actions/checkout@v3</a></p></li>

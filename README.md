@@ -8,7 +8,7 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 27</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 20</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
@@ -26,11 +26,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/tasks/pull/346">elementary/tasks #346 · actions/checkout@v3</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
     <td><p><a href="https://github.com/elementary/switchboard-plug-display/pull/336">elementary/switchboard-plug-display #336 · actions/checkout@v3</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
@@ -41,37 +36,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/calculator/pull/239">elementary/calculator #239 · actions/checkout@v3</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/mail/pull/811">elementary/mail #811 · actions/checkout@v3</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/screenshot/pull/255">elementary/screenshot #255 · actions/checkout@v3</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/videos/pull/323">elementary/videos #323 · actions/checkout@v3</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/capnet-assist/pull/94">elementary/capnet-assist #94 · actions/checkout@v3</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
     <td><p><a href="https://github.com/elementary/gala/pull/1513">elementary/gala #1513 · actions/checkout@v3</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/installer/pull/677">elementary/installer #677 · actions/checkout@v3</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
   </tr>
@@ -153,9 +118,16 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 127</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 134</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/installer/pull/677">elementary/installer #677 · actions/checkout@v3</a></p></li>
+<li><p><a href="https://github.com/elementary/tasks/pull/346">elementary/tasks #346 · actions/checkout@v3</a></p></li>
+<li><p><a href="https://github.com/elementary/mail/pull/811">elementary/mail #811 · actions/checkout@v3</a></p></li>
+<li><p><a href="https://github.com/elementary/calculator/pull/239">elementary/calculator #239 · actions/checkout@v3</a></p></li>
+<li><p><a href="https://github.com/elementary/videos/pull/323">elementary/videos #323 · actions/checkout@v3</a></p></li>
+<li><p><a href="https://github.com/elementary/capnet-assist/pull/94">elementary/capnet-assist #94 · actions/checkout@v3</a></p></li>
+<li><p><a href="https://github.com/elementary/screenshot/pull/255">elementary/screenshot #255 · actions/checkout@v3</a></p></li>
 <li><p><a href="https://github.com/elementary/notifications/pull/183">elementary/notifications #183 · actions/checkout@v3</a></p></li>
 <li><p><a href="https://github.com/elementary/photos/pull/731">elementary/photos #731 · actions/checkout@v3</a></p></li>
 <li><p><a href="https://github.com/elementary/default-settings/pull/276">elementary/default-settings #276 · actions/checkout@v3</a></p></li>

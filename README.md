@@ -118,9 +118,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 135</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 136</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/photos/pull/732">elementary/photos #732 · Fix translation charset</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-onlineaccounts/pull/248">elementary/switchboard-plug-onlineaccounts #248 · Add support for evolution-data-server 3.45+ / libsoup-3</a></p></li>
 <li><p><a href="https://github.com/elementary/installer/pull/677">elementary/installer #677 · actions/checkout@v3</a></p></li>
 <li><p><a href="https://github.com/elementary/tasks/pull/346">elementary/tasks #346 · actions/checkout@v3</a></p></li>

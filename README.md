@@ -16,7 +16,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/1977">elementary/appcenter #1977 · Fix content type warnings</a></p></td>
+    <td><p><a href="https://github.com/elementary/appcenter/pull/1977">elementary/appcenter #1977 · Fix warnings for native packages, OS and Runtime updates</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>

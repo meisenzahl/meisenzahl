@@ -16,6 +16,11 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
+    <td><p><a href="https://github.com/elementary/settings-daemon/pull/48">elementary/settings-daemon #48 · Offline system upgrades</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
     <td><p><a href="https://github.com/elementary/initial-setup/pull/92">elementary/initial-setup #92 · Option to install proprietary codecs</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
@@ -72,11 +77,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/switchboard-plug-about/pull/245">elementary/switchboard-plug-about #245 · Offline system upgrades</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/settings-daemon/pull/48">elementary/settings-daemon #48 · Offline system upgrades</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
   </tr>

@@ -8,12 +8,17 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 24</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 25</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
     <th>State</th>
     <th>Mergeable</th>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/appcenter/pull/1983">elementary/appcenter #1983 · Flatpak repair</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/music/pull/737">elementary/music #737 · Offline Updates</a></p></td>

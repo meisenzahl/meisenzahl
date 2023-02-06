@@ -8,17 +8,12 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 25</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 24</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
     <th>State</th>
     <th>Mergeable</th>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/1983">elementary/appcenter #1983 · Flatpak repair</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/music/pull/737">elementary/music #737 · Offline Updates</a></p></td>
@@ -143,9 +138,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 137</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 138</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/appcenter/pull/1983">elementary/appcenter #1983 · Flatpak repair</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1977">elementary/appcenter #1977 · Fix warnings for native packages, OS and Runtime updates</a></p></li>
 <li><p><a href="https://github.com/elementary/photos/pull/732">elementary/photos #732 · Fix translation charset</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-onlineaccounts/pull/248">elementary/switchboard-plug-onlineaccounts #248 · Add support for evolution-data-server 3.45+ / libsoup-3</a></p></li>

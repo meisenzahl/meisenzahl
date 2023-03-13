@@ -16,14 +16,14 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/os/pull/582">elementary/os #582 · Build OSTree based images</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
     <td><p><a href="https://github.com/elementary/appcenter/pull/1994">elementary/appcenter #1994 · Add meson options to disable backends</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/os/pull/582">elementary/os #582 · Build OSTree based images</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/music/pull/737">elementary/music #737 · Offline Updates</a></p></td>

@@ -133,9 +133,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 140</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 141</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/appcenter/pull/2015">elementary/appcenter #2015 · Fix deprecations for AppStream 0.16</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1993">elementary/appcenter #1993 · CategoryView: Fix crash</a></p></li>
 <li><p><a href="https://github.com/elementary/.github/pull/23">elementary/.github #23 · Add OS 7 name</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1983">elementary/appcenter #1983 · Flatpak repair</a></p></li>

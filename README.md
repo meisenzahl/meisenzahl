@@ -8,17 +8,12 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 23</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 22</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
     <th>State</th>
     <th>Mergeable</th>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/granite/pull/647">elementary/granite #647 · Fix demo desktop file</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/appcenter/pull/1994">elementary/appcenter #1994 · Add meson options to disable backends</a></p></td>
@@ -133,9 +128,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 143</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 144</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/granite/pull/647">elementary/granite #647 · Fix demo desktop file</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-network/pull/357">elementary/switchboard-plug-network #357 · Add support for libnm 1.43</a></p></li>
 <li><p><a href="https://github.com/elementary/portals/pull/67">elementary/portals #67 · Add build support for older Vala versions</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/2015">elementary/appcenter #2015 · Fix deprecations for AppStream 0.16</a></p></li>

@@ -16,7 +16,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/onboarding/pull/210">elementary/onboarding #210 · WelcomeView: Change text to elementary OS</a></p></td>
+    <td><p><a href="https://github.com/elementary/onboarding/pull/210">elementary/onboarding #210 · WelcomeView: Update description</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
   </tr>

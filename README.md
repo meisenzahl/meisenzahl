@@ -113,9 +113,11 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 148</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 150</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/greeter/pull/650">elementary/greeter #650 · Remove lightdm config</a></p></li>
+<li><p><a href="https://github.com/elementary/greeter/pull/651">elementary/greeter #651 · meson: Install lightdm config</a></p></li>
 <li><p><a href="https://github.com/elementary/settings-daemon/pull/45">elementary/settings-daemon #45 · Check for firmware updates</a></p></li>
 <li><p><a href="https://github.com/elementary/settings-daemon/pull/57">elementary/settings-daemon #57 · Packaging: Add fwupd</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1994">elementary/appcenter #1994 · Add meson options to disable backends</a></p></li>

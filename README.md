@@ -16,14 +16,14 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/calendar/pull/786">elementary/calendar #786 · Meson option to build without libchamplain</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
     <td><p><a href="https://github.com/elementary/portals/pull/79">elementary/portals #79 · Start after Gala</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/calendar/pull/786">elementary/calendar #786 · Meson option to build without libchamplain</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/os/pull/582">elementary/os #582 · Build OSTree based images</a></p></td>

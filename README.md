@@ -118,9 +118,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 151</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 152</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/appcenter/pull/2053">elementary/appcenter #2053 · FlatpakBackend: Add null checks for user and system installation</a></p></li>
 <li><p><a href="https://github.com/elementary/onboarding/pull/210">elementary/onboarding #210 · WelcomeView: Update description</a></p></li>
 <li><p><a href="https://github.com/elementary/greeter/pull/650">elementary/greeter #650 · Remove lightdm config</a></p></li>
 <li><p><a href="https://github.com/elementary/greeter/pull/651">elementary/greeter #651 · meson: Install lightdm config</a></p></li>

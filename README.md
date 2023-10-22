@@ -116,6 +116,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 <details><summary><b>Features I have contributed: 152</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/switchboard-plug-network/pull/357">elementary/switchboard-plug-network #357 · Add support for libnm 1.43</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/2053">elementary/appcenter #2053 · FlatpakBackend: Add null checks for user and system installation</a></p></li>
 <li><p><a href="https://github.com/elementary/onboarding/pull/210">elementary/onboarding #210 · WelcomeView: Update description</a></p></li>
 <li><p><a href="https://github.com/elementary/greeter/pull/650">elementary/greeter #650 · Remove lightdm config</a></p></li>
@@ -125,7 +126,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 <li><p><a href="https://github.com/elementary/appcenter/pull/1994">elementary/appcenter #1994 · Add meson options to disable backends</a></p></li>
 <li><p><a href="https://github.com/elementary/calendar/pull/784">elementary/calendar #784 · Release 6.1.3</a></p></li>
 <li><p><a href="https://github.com/elementary/granite/pull/647">elementary/granite #647 · Fix demo desktop file</a></p></li>
-<li><p><a href="https://github.com/elementary/switchboard-plug-network/pull/357">elementary/switchboard-plug-network #357 · Add support for libnm 1.43</a></p></li>
 <li><p><a href="https://github.com/elementary/portals/pull/67">elementary/portals #67 · Add build support for older Vala versions</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/2015">elementary/appcenter #2015 · Fix deprecations for AppStream 0.16</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1993">elementary/appcenter #1993 · CategoryView: Fix crash</a></p></li>

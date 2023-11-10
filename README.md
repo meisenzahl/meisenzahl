@@ -16,7 +16,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/installer/pull/738">elementary/installer #738 · Add support for Anaconda backend</a></p></td>
+    <td><p><a href="https://github.com/elementary/installer/pull/738">elementary/installer #738 · WIP: Add support for Anaconda backend</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
   </tr>

@@ -16,6 +16,11 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <th>Mergeable</th>
   </tr>
 <tr>
+    <td><p><a href="https://github.com/elementary/switchboard-plug-about/pull/245">elementary/switchboard-plug-about #245 · Offline system upgrades</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
     <td><p><a href="https://github.com/elementary/appcenter/pull/2099">elementary/appcenter #2099 · Add support for AppStream 1.0</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
@@ -82,11 +87,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/appcenter/pull/1965">elementary/appcenter #1965 · Improve SearchView</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/switchboard-plug-about/pull/245">elementary/switchboard-plug-about #245 · Offline system upgrades</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
   </tr>

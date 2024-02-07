@@ -8,7 +8,7 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 21</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 20</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
@@ -29,11 +29,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td><p><a href="https://github.com/elementary/switchboard-plug-about/pull/245">elementary/switchboard-plug-about #245 · Offline system upgrades</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/appcenter/pull/2099">elementary/appcenter #2099 · Add support for AppStream 1.0</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/installer/pull/738">elementary/installer #738 · WIP: Add support for Anaconda backend</a></p></td>
@@ -123,9 +118,10 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 154</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 155</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/appcenter/pull/2099">elementary/appcenter #2099 · Add support for AppStream 1.0</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/275">elementary/switchboard-plug-about #275 · Add support for AppStream 1.0</a></p></li>
 <li><p><a href="https://github.com/elementary/gala/pull/1792">elementary/gala #1792 · Gtk.init only in X11 session</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-network/pull/357">elementary/switchboard-plug-network #357 · Add support for libnm 1.43</a></p></li>

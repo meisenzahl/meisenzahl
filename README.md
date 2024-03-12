@@ -8,7 +8,7 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 19</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 18</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
@@ -42,11 +42,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/portals/pull/79">elementary/portals #79 · Start after Gala</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/os/pull/582">elementary/os #582 · Build OSTree based images</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
   </tr>

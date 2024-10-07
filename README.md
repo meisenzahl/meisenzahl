@@ -8,12 +8,52 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 17</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 18</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
     <th>State</th>
     <th>Mergeable</th>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/installer/pull/738">elementary/installer #738 · WIP: Add support for Anaconda backend</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/installer/pull/820">elementary/installer #820 · Revert "Launcher: use dbus to log out (#819)"</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/session-settings/pull/84">elementary/session-settings #84 · Remove onboard packaging</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/session-settings/pull/83">elementary/session-settings #83 · Remove onboard</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/gala/pull/1493">elementary/gala #1493 · Hide Others</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/gala/pull/1376">elementary/gala #1376 · Play login sound</a></p></td>
+    <td>👀️ Ready for review</td>
+    <td>⚠️ Merging is blocked</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/settings-daemon/pull/48">elementary/settings-daemon #48 · Offline system upgrades</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
+  </tr>
+<tr>
+    <td><p><a href="https://github.com/elementary/initial-setup/pull/92">elementary/initial-setup #92 · Option to install proprietary codecs</a></p></td>
+    <td>🏗️ Draft</td>
+    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/appcenter/pull/1965">elementary/appcenter #1965 · Improve SearchView</a></p></td>
@@ -22,16 +62,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/switchboard-plug-about/pull/245">elementary/switchboard-plug-about #245 · Offline system upgrades</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/installer/pull/738">elementary/installer #738 · WIP: Add support for Anaconda backend</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/installer/pull/737">elementary/installer #737 · Prepare support for other backends</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
   </tr>
@@ -51,29 +81,9 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td>⤵️ Mergeable</td>
   </tr>
 <tr>
-    <td><p><a href="https://github.com/elementary/settings-daemon/pull/48">elementary/settings-daemon #48 · Offline system upgrades</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/initial-setup/pull/92">elementary/initial-setup #92 · Option to install proprietary codecs</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/gala/pull/1493">elementary/gala #1493 · Hide Others</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
     <td><p><a href="https://github.com/elementary/switchboard-plug-onlineaccounts/pull/249">elementary/switchboard-plug-onlineaccounts #249 · Settings Sync</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/gala/pull/1376">elementary/gala #1376 · Play login sound</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/sound-theme/pull/16">elementary/sound-theme #16 · Add login sound</a></p></td>
@@ -84,11 +94,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td><p><a href="https://github.com/elementary/code/pull/940">elementary/code #940 · Add build and run controls for Flatpak based projects</a></p></td>
     <td>👀️ Ready for review</td>
     <td>⚠️ Merging is blocked</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/wingpanel-indicator-nightlight/pull/72">elementary/wingpanel-indicator-nightlight #72 · Add dark style toggle to indicator</a></p></td>
-    <td>🏗️ Draft</td>
-    <td>⤵️ Mergeable</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/wingpanel-indicator-network/pull/201">elementary/wingpanel-indicator-network #201 · Show an indicator icon for each active connection</a></p></td>
@@ -103,9 +108,12 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 </table>
 </details>
 
-<details><summary><b>Features I have contributed: 156</b> (Click to expand)</summary>
+<details><summary><b>Features I have contributed: 160</b> (Click to expand)</summary>
 <p>
 <ul>
+<li><p><a href="https://github.com/elementary/installer/pull/737">elementary/installer #737 · Prepare support for other backends</a></p></li>
+<li><p><a href="https://github.com/elementary/installer/pull/825">elementary/installer #825 · Hostname validation</a></p></li>
+<li><p><a href="https://github.com/elementary/sideload/pull/170">elementary/sideload #170 · Handle flatpak+https scheme</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/2090">elementary/appcenter #2090 · Don't check for updates in the guest session</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/2099">elementary/appcenter #2099 · Add support for AppStream 1.0</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-about/pull/275">elementary/switchboard-plug-about #275 · Add support for AppStream 1.0</a></p></li>
@@ -262,6 +270,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 <li><p><a href="https://github.com/elementary/gala/pull/877">elementary/gala #877 · Increase maximum for zoom plugin</a></p></li>
 <li><p><a href="https://github.com/elementary/default-settings/pull/182">elementary/default-settings #182 · Enable Housekeeping by default</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-applications/pull/60">elementary/switchboard-plug-applications #60 · Set permissions for flatpaks</a></p></li>
+<li><p><a href="https://github.com/elementary/monitor/pull/133">elementary/monitor #133 · Downgrade Node.js to fix builds on Travis CI</a></p></li>
 </ul>
 </p>
 </details>

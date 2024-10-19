@@ -8,7 +8,7 @@ In my freetime I like to help with the development of open source projects 👨�
 
 I love the idea of the [elementary](https://github.com/elementary) project and try to support the project as much as I can in the area of software development.
 
-<details><summary><b>Features I am working on: 18</b> (Click to expand)</summary>
+<details><summary><b>Features I am working on: 17</b> (Click to expand)</summary>
 <table>
   <tr>
     <th>Title</th>
@@ -19,11 +19,6 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
     <td><p><a href="https://github.com/elementary/installer/pull/738">elementary/installer #738 · WIP: Add support for Anaconda backend</a></p></td>
     <td>🏗️ Draft</td>
     <td>⤵️ Mergeable</td>
-  </tr>
-<tr>
-    <td><p><a href="https://github.com/elementary/installer/pull/820">elementary/installer #820 · Revert "Launcher: use dbus to log out (#819)"</a></p></td>
-    <td>👀️ Ready for review</td>
-    <td>⚠️ Merging is blocked</td>
   </tr>
 <tr>
     <td><p><a href="https://github.com/elementary/session-settings/pull/84">elementary/session-settings #84 · Remove onboard packaging</a></p></td>

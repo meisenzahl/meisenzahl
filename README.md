@@ -149,7 +149,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 <li><p><a href="https://github.com/elementary/wingpanel-indicator-power/pull/241">elementary/wingpanel-indicator-power #241 · actions/checkout@v3</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-wallet/pull/29">elementary/switchboard-plug-wallet #29 · actions/checkout@v3</a></p></li>
 <li><p><a href="https://github.com/elementary/feedback/pull/86">elementary/feedback #86 · actions/checkout@v3</a></p></li>
-<li><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/339">elementary/switchboard-plug-pantheon-shell #339 · actions/checkout@v3</a></p></li>
+<li><p><a href="https://github.com/elementary/settings-desktop/pull/339">elementary/settings-desktop #339 · actions/checkout@v3</a></p></li>
 <li><p><a href="https://github.com/elementary/granite/pull/630">elementary/granite #630 · actions/checkout@v3</a></p></li>
 <li><p><a href="https://github.com/elementary/wingpanel-indicator-nightlight/pull/94">elementary/wingpanel-indicator-nightlight #94 · actions/checkout@v3</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-network/pull/345">elementary/switchboard-plug-network #345 · actions/checkout@v3</a></p></li>
@@ -215,7 +215,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 <li><p><a href="https://github.com/elementary/notifications/pull/85">elementary/notifications #85 · Play different sound when notification is urgent</a></p></li>
 <li><p><a href="https://github.com/elementary/onboarding/pull/135">elementary/onboarding #135 · Set Up Online Accounts</a></p></li>
 <li><p><a href="https://github.com/elementary/applications-menu/pull/473">elementary/applications-menu #473 · Prioritize application actions over AppCenter search</a></p></li>
-<li><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/263">elementary/switchboard-plug-pantheon-shell #263 · Set accent color based on wallpaper</a></p></li>
+<li><p><a href="https://github.com/elementary/settings-desktop/pull/263">elementary/settings-desktop #263 · Set accent color based on wallpaper</a></p></li>
 <li><p><a href="https://github.com/elementary/onboarding/pull/132">elementary/onboarding #132 · Remove unused Granite.Settings</a></p></li>
 <li><p><a href="https://github.com/elementary/onboarding/pull/130">elementary/onboarding #130 · Do not use Granite.Settings</a></p></li>
 <li><p><a href="https://github.com/elementary/gala/pull/1124">elementary/gala #1124 · Set accent color based on primary color</a></p></li>
@@ -256,7 +256,7 @@ I love the idea of the [elementary](https://github.com/elementary) project and t
 <li><p><a href="https://github.com/elementary/seeds/pull/53">elementary/seeds #53 · Include flatpak-builder in sdk</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1418">elementary/appcenter #1418 · Replace deprecated code</a></p></li>
 <li><p><a href="https://github.com/elementary/switchboard-plug-applications/pull/124">elementary/switchboard-plug-applications #124 · Permissions view creates empty files in home folder</a></p></li>
-<li><p><a href="https://github.com/elementary/switchboard-plug-pantheon-shell/pull/233">elementary/switchboard-plug-pantheon-shell #233 · Schedule dark mode</a></p></li>
+<li><p><a href="https://github.com/elementary/settings-desktop/pull/233">elementary/settings-desktop #233 · Schedule dark mode</a></p></li>
 <li><p><a href="https://github.com/elementary/settings-daemon/pull/7">elementary/settings-daemon #7 · Schedule dark mode</a></p></li>
 <li><p><a href="https://github.com/elementary/appcenter/pull/1417">elementary/appcenter #1417 · Fix layout for overly wide origin combobox</a></p></li>
 <li><p><a href="https://github.com/elementary/wingpanel-indicator-power/pull/146">elementary/wingpanel-indicator-power #146 · Hide percentage in panel when indicator shows calculating</a></p></li>
